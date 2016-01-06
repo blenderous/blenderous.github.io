@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "First github blog post"
+description: "It's a proud moment :')"
 date: 2016-01-06
 ---
 

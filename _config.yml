@@ -1,5 +1,4 @@
-name: Harish
+name: "Harish's Blog"
 markdown: kramdown
 kramdown:
   input: GFM
-baseurl: /blog/
