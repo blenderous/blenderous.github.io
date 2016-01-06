@@ -2,3 +2,4 @@ name: Harish
 markdown: kramdown
 kramdown:
   input: GFM
+baseurl: /blog/
