@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<article>
+  <header>
+    <h2>{{ page.title }}</h2>
+    <p><time datetime="page.date">{{ page.date | date_to_string }}</time></p>
+  </header>
+  <section>
+    <p>{{ content }}</p>
+  </section>
+</article>
