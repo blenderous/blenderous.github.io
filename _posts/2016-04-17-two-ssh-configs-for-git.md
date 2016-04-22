@@ -2,7 +2,7 @@
 layout: post
 title: "SSH config for two separate git repository accounts"
 description: "Working with two separate git repositories."
-date: 2016-04-11
+date: 2016-04-17
 comments: true
 ---
 This is an example of the SSH config you would want to use when you have two accounts to manage your git repositories. The one I use is a private repository based in gitlab and the othe, a public one in github.
