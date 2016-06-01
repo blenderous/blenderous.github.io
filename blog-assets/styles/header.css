@@ -1,0 +1,16 @@
+header.banner {
+  background: url('../images/header.png') no-repeat top center transparent;
+  background-size: 100%;
+  height: 392px;
+}
+
+header.banner h1 {
+  font-family: 'versiontyperegular', sans-serif;
+  font-size: 6em;
+  text-align: center;
+  margin: 0;
+  padding-top: 20px;
+  color: #95D7FF;
+  text-shadow: 6px 6px 7px #1f1f1f;
+  letter-spacing: 6px;
+}
