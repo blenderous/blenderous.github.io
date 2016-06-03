@@ -1,0 +1,14 @@
+nav ul {
+  list-style: none;
+  border-bottom: 1px solid aquamarine;
+  padding-bottom: 3em;
+  padding-left: 0;
+}
+
+nav ul li {
+  margin-bottom: 12px;
+}
+
+nav ul li:last-child {
+  margin-bottom: 0;
+}

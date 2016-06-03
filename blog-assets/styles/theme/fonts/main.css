@@ -1,0 +1,17 @@
+@import "fontface.css";
+
+html, .pure-g [class *= "pure-u"] {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 8px;
+  letter-spacing: normal;
+}
+
+@media (min-width:768px) {
+  html {
+    font-size: 10px;
+  }
+}
+
+p, ul li {
+  font-size: 1.4em;
+}

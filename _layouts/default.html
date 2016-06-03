@@ -8,17 +8,34 @@
   </head>
   <body>
     <header class="banner" role="banner">
+      <img src="/blog-assets/images/header.png" width="1600" height="384" alt="">
       <h1>CODE DIARIES</h1>
-      <nav role="navigation">
+    </header>
+    <nav role="navigation">
+      <div class="container">
         <ul>
           <li><a href="/">Bl0g home</a></li>
           <li><a href="/about.html">About Blenderous</a></li>
         </ul>
-      </nav>
-    </header>
+      </div>
+    </nav>
     <main role="main">
-      {{ content }}
+      <div class="container">
+        <div class="pure-g">
+          <div class="pure-u-md-3-5">
+            {{ content }}
+          </div>
+        </div>
+      </div>
     </main>
-    <footer role="contentinfo">Imagined and coded by <a target="_blank" href="https://twitter.com/blenderous" title="Open Twitter Profile of Harish (In a new tab)">@blenderous</a></footer>
+    <footer role="contentinfo">
+      <div class="container">
+        Imagined and coded by
+        <a target="_blank" href="https://twitter.com/blenderous"
+        title="Open Twitter Profile of Harish (In a new tab)">
+          @blenderous
+        </a>
+      </div>
+    </footer>
   </body>
 </html>
