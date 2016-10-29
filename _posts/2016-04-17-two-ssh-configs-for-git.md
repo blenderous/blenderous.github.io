@@ -5,14 +5,14 @@ description: "Working with two separate git repositories."
 date: 2016-04-17
 comments: true
 ---
-This is an example of the SSH config you would want to use when you have two accounts to manage your git repositories. The one I use is a private repository based in gitlab and the othe, a public one in github.
+This is an example of the SSH config you would want to use when you have two accounts to manage your git repositories. The one I use is a private repository based in gitlab and the other, a public repository in github.
 
 To connect to the private repository through SSH, follow these steps:
 
 1. If you are on windows, I recommend using Git Bash since it already has `ssh-keygen` pre-installed
 2. Generate an ssh key with the email id associated with the private repository.
 ```
-    ssh-keygen -t rsa -C "email-address-associated-with-private-repo"
+    ssh-keygen -t rsa -C "email@private.company"
 ```
 This will take you through a series of steps.
 Make sure you assign a good name for your key, like `id_rsa_private_repo`
@@ -49,4 +49,5 @@ ssh-add ~/.ssh/id_rsa_github
 
 8. Now, when you need to clone a project from the private repository, you will have to
 `git clone privateRepo:project_name.git`
-9. You will have to specify your origin now whenever you fetch a branch or push to origin. This will be explained in my next post.
+9. Now, before you can make changes, commit, make pushes or pulls, you will have to add this repo address to origin.
+`git remote add origin privateRepo:project_name.git`

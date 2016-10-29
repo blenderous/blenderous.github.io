@@ -1,18 +1,24 @@
 ---
 layout: post
-title: "Possible Front-end workflow"
+title: "Front End Workflow"
 description: "Possible technologies and tools of trade that could be used to create interfaces for the web"
 date: 2016-10-20
 comments: true
 ---
 
-# Possible workflow
+# Front End Workflow
+
+Front end development is a chaos. There are so many tools out there to make web applications and how they work and contribute to the workflow of a developer is overwhelming in itself.
+
+Now, for this article I am assuming that you already know about (even if you haven't used) certain front end tools.
+
+
 
 ## Dev version
  - sass compilation (using `libSass`)
  - watch and inject css (separate file for each scss file)
  - watch and include HTML partials (preferably using a templating language)
- - include bower components (angular, modernizr)
+ - include bower components (like `angular`, `modernizr`)
  - Commands to create folder for page. Assuming tasks are carried out using `gulp`, the commands could be like: `gulp folder --page="homepage"`, `gulp folder --layout="blog"`) and section for page `gulp folder --section="section1" --for="homepage"`
  - live reload
  - Rendering of site in multiple languages  implemented from back-end
@@ -24,8 +30,8 @@ comments: true
  - serve compressed pages
 
 ## Nice to haves
- - Move lazy load to app.js
- - Add ng-app to the html instead of body
+ - Lazy load for all javascript modules in the `app.js`
+ - Preprocessing the js files 
 
 ## Example folder structure
 

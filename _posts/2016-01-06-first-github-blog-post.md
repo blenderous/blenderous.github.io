@@ -7,6 +7,6 @@ date: 2016-01-06
 
 Finally get to blog on my github page.
 
-It is in fact powered by [Jekyll](http://jekyllrb.com).
+It is in fact powered by [Jekyll](http://jekyllrb.com). It's been a breeze to set this up. 
 
-And I can even write some code here `console.log('goodbye!')`
+And I can even write some code here `console.log('hi there!')`
