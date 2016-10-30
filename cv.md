@@ -6,32 +6,33 @@ permalink: /cv/
 
 ## Careful!
 
-The following is about my technical know-how. It is full of technical terms and jargon. Proceed with caution.
+The following article is full of technical terms and jargon. Proceed with caution.
 
 ## Skillset
 
 ### Javascript (level: medium to advanced)
 
-- have written a lot of `jQuery` (when it was popular)
-- used Bootstrap javascript components and other plugins for simple interactive stuff on web pages
-- working with `angular js` (`1.2.29` since this version is compatible with IE8) to make DOM manipulations, making interactive elements and to make front end code modular
+- Comfortable with `jQuery`
+- Familiar with Bootstrap javascript components and other plugins for making simple interactive elements on web pages
+- Working with `Angular js` to make DOM manipulations, interactive elements and to have modular front end code
 
 ### CSS (level: advanced)
 
-- writing a lot of simple `CSS` to create proper layouts for the page/application
-- using `LESS` or `SASS` preprocessors to make `CSS` more re-usable (by using `mixins` and `variables`)
-- making changes in layouts and structure for better viewing in tablets and mobiles
-- learning to make `CSS` more maintanable and easy to organize using naming conventions and maintaining custom libraries for widely used `CSS` utilities
+- I write a lot of simple `CSS` to create proper layouts for the page/application
+- I use a `LESS` or `SASS` preprocessor to make `CSS` more re-usable (by using `mixins` and `variables`)
+- I write `media queries` to have a better layout and structure for the application in tablets and mobiles
+- I am learning to make `CSS` more maintainable and easy to organize using naming conventions and having custom libraries for widely used `CSS` utilities
 
 ### HTML (level: professional)
 
-- writing meaningful and semantic html
-- using templates in concurrence with back-end frameworks (like `liquid` for ruby and `blade` for `laravel`)
-- interested in making elementary `html` using mixins or angular templates (trying to implement the philosophy of `polymer` using existing `html`, `css` and `js` standards)
+- I am good at writing meaningful and semantic `html`
+- I like to use templates in concurrence with back-end frameworks (like `liquid` for ruby and `blade` for `laravel`)
+- I am interested in writing elementary `html` using mixins or angular templates
+- I am also very much intrigued by the philosophy of `polymer` and would love to implement something similar one day
 
 ## Education
 
-Completed Information Systems course from Goa, India (At the university Birla Insitute of Technology and Science).
+Completed Information Systems course in Goa, India (at the university, Birla Insitute of Technology and Science).
 
 ## Experience
 
@@ -43,10 +44,11 @@ Completed Information Systems course from Goa, India (At the university Birla In
 - Tried `compass` library for `SASS`, could not include it's positives into work-flow though
 - Enhanced existing `gulp` tasks and created some new ones to have a better work-flow
 - Still creating challenging designs and layouts using `Bootstrap CSS` and media queries
+- Still effectively using version control system `git`
 
 ### *Ipedis India, Chennai, India* (As Front End Developer)
 - Created websites using properly semantic `html`, `CSS` with `LESS` preprocessor and learned `Angular JS` with the guidance of the CTO (Yanis Ghidouche)
-- Learned to work with task manager (`grunt`) and version control (`git`)
+- Learned to work with task manager (`grunt`) and version control system (`git`)
 - Created challenging designs and layouts using `Bootstrap CSS` and media queries
 
 ### *Freelance Developer, Pune, India* (As Graphic Designer and Developer)
@@ -63,4 +65,4 @@ Completed Information Systems course from Goa, India (At the university Birla In
 ### *TransGraph, Hyderabad, India* (As Intern)
 - Created `html` forms for internal applications
 - Created simple UI using `jQuery UI`
-- Integrated `html` views with business logic written in C#
+- Integrated `html` views with business logic written in `C#`
