@@ -13,8 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Love to write code, especially javascript, SASS and meaningful HTML.
   I like the Node environment, Atom text editor and GIT source control.
   While not writing code, I am usually wondering about the future of humanity
-  and how the lives of everyone will be transformed in the next few years 
-  by virtue of technology.
+  and how the lives of everyone will be transformed by virtue of technology.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://harish.octopouce.mu" # the base hostname & protocol for your site
 twitter_username: blenderous
