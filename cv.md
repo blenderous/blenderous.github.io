@@ -39,7 +39,7 @@ Completed Information Systems course in Goa, India (at the university, Birla Ins
 ### *Octopouce Digital, Mauritius Islands* (As Lead Front End Developer)
 - Created websites using `Angular JS` (all the interactive bits of the website, animations and translation of page content)
 - Getting familiar with `npm` ecosystem and experimenting with various `node` applications (for css fontface generation, markdown to html conversion, ES6 transpilation etc.)
-- Created a desktop application using `nwjs` (Node Webkit)
+- Created a desktop application using `NWJS` (Node Webkit)
 - Integrating views within the `PHP` framework `laravel` using the `blade` templating engine
 - Tried `compass` library for `SASS`, could not include it's positives into work-flow though
 - Enhanced existing `gulp` tasks and created some new ones to have a better work-flow
