@@ -16,14 +16,14 @@ The following article is full of technical terms and jargon. Proceed with cautio
 - Familiar with Bootstrap javascript components and other plugins for making simple interactive elements on web pages
 - Working with `Angular js` to make DOM manipulations, interactive elements and to have modular front end code
 
-### CSS (level: advanced)
+### CSS (level: medium to advanced)
 
 - I write a lot of simple `CSS` to create proper layouts for the page/application
 - I use a `LESS` or `SASS` preprocessor to make `CSS` more re-usable
 - I write `media queries` to have a better layout and structure in tablet and mobile
 - I am learning to make `CSS` more maintainable and well organized using naming conventions and custom libraries for the commonly used `CSS` utilities
 
-### HTML (level: professional)
+### HTML (level: advanced)
 
 - I am good at writing meaningful and semantic `html`
 - I like to use templates in concurrence with back-end frameworks (like `liquid` for ruby and `blade` for `laravel`)

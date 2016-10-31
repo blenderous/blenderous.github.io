@@ -7,7 +7,7 @@ permalink: /about/
 
 I am a front end developer.
 
-Started out as someone who wrote websites using plain HTML and CSS, carving out images from a mockup and making sure nothing slipped out of place on IE5.5
+Started out as someone who wrote websites using plain HTML and CSS, carving out images from a photoshop mockup and making sure nothing slipped out of place on IE5.5
 
 ## My Professional Self
 
