@@ -1,14 +1,22 @@
-# Creating a new virtual host in ubuntu (14.04, 16.04)
+---
+layout: post
+title: "Creating a virtual host in ubuntu (14.04, 16.04)"
+description: "Creating virtual hosts in ubuntu for local development"
+date: 2016-10-10
+comments: true
+---
 
-The following are the steps to create a virtualhost for locally developping web application in ubuntu
+## Creating a virtual host in ubuntu (14.04, 16.04)
 
-## Getting started
+The following are the steps to create a virtualhost for locally developing web application in ubuntu
 
-### 1. Copy existing default configuration
+### Getting started
+
+#### 1. Copy existing default configuration
 
 `sudo cp /etc/apache2/sites-available/000-default.conf /etc/apache2/sites-available/dev.local.conf`
 
-### 2. Edit this configuration
+#### 2. Edit this configuration
 
 `sudo nano /etc/apache2/sites-available/example.com.conf`
 
@@ -24,17 +32,17 @@ The following is an example virtual host configuration.
 		</VirtualHost>
         ```
 
-### 3. Enable this virtualhost and reload apache
+#### 3. Enable this virtualhost and reload apache
 
 `sudo a2ensite example.com.conf`
 
 `sudo service apache2 reload`
 
-## Checking apache log for errors
+### Checking apache log for errors
 
 `tail -f /var/log/apache2/error.log`
 
-## Changing permissions and ownership
+### Changing permissions and ownership
 
 In case you are using a backend framework like laravel, you might have to change ownership of certain folders and grant the user group read, write and execute permissions.
 

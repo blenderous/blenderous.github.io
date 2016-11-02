@@ -44,6 +44,10 @@ $on-laptop:        800px;
 }
 
 
+// Overriding variables with custom theme
+@import
+        "theme.exoplanet/variables";
+
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
@@ -51,3 +55,8 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+
+// Overriding layout with custom theme
+@import
+        "theme.exoplanet/layout";

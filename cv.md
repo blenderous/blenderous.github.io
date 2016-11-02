@@ -6,7 +6,7 @@ permalink: /cv/
 
 ## Careful!
 
-The following article is full of technical terms and jargon. Proceed with caution.
+The following article is full of technical terms and jargon. Proceed with caution!
 
 ## Skillset
 
@@ -14,7 +14,7 @@ The following article is full of technical terms and jargon. Proceed with cautio
 
 - Comfortable with `jQuery`
 - Familiar with Bootstrap javascript components and other plugins for making simple interactive elements on web pages
-- Working with `Angular js` to make DOM manipulations, interactive elements and to have modular front end code
+- Knowhow of `Angular js` to make DOM manipulations, interactive elements and to have modular front end code
 
 ### CSS (level: medium to advanced)
 

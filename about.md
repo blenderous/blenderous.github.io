@@ -9,7 +9,7 @@ I am a front end developer.
 
 Started out as someone who wrote websites using plain HTML and CSS, carving out images from a photoshop mockup and making sure nothing slipped out of place on IE5.5
 
-## My Professional Self
+## What I like
 
 1. I enjoy working on creative front end stuff in general.
 2. I like to experiment with various javascript frameworks and go out of the way to make any possible workflow customizations, right from task runners to editor plugins, down all the way to shell scripts that make life easier.
@@ -30,7 +30,7 @@ It's a really far away dream, I know :)
 
 ## How I would describe myself
 
-I would like to be the person who is both creative and also delivers.
+I am a person who is creative and also delivers.
 
 I am also a bit of a scientist because I like to get to the bottom of things and figure out how something is the way it is.
 
