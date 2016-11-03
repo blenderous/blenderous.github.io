@@ -18,17 +18,17 @@ The following article is full of technical terms and jargon. Proceed with cautio
 
 ### CSS (level: medium to advanced)
 
-- I write a lot of simple `CSS` to create proper layouts for the page/application
-- I use a `LESS` or `SASS` preprocessor to make `CSS` more re-usable
-- I write `media queries` to have a better layout and structure in tablet and mobile
-- I am learning to make `CSS` more maintainable and well organized using naming conventions and custom libraries for the commonly used `CSS` utilities
+- Like to write a lot of simple `CSS` to create proper layouts for the page/application
+- Use a `LESS` or `SASS` preprocessor to make `CSS` more re-usable
+- Know to write `media queries` to have a better layout and structure in tablet and mobile
+- Learning to make `CSS` more maintainable and well organized using naming conventions and custom libraries for the commonly used `CSS` utilities
 
 ### HTML (level: advanced)
 
-- I am good at writing meaningful and semantic `html`
-- I like to use templates in concurrence with back-end frameworks (like `liquid` for ruby and `blade` for `laravel`)
-- I am interested in writing elementary `html` using mixins or angular templates
-- I am also very much intrigued by the philosophy of `polymer` and would love to implement something similar one day
+- Good at writing meaningful and semantic `html`
+- Like to use templates in concurrence with back-end frameworks (like `liquid` for ruby and `blade` for `laravel`)
+- Interested in writing elementary `html` using mixins or angular templates
+- Very much intrigued by the philosophy of `polymer` and would love to implement something similar one day
 
 ## Education
 
@@ -36,7 +36,7 @@ Completed Information Systems course in Goa, India (at the university, Birla Ins
 
 ## Experience
 
-### Octopouce Digital, Mauritius Islands *(As Lead Front End Developer)*
+### Octopouce Digital, Mauritius Islands *(As Lead Front End Developer - Sep 2015 to now)*
 - Created websites using `Angular JS` (all the interactive bits of the website, animations and translation of page content etc)
 - Getting familiar with `npm` ecosystem and experimenting with various `node` applications (for css fontface generation, markdown to html conversion, ES6 transpilation etc.)
 - Created a desktop application using `NWJS` (Node Webkit)
@@ -46,23 +46,23 @@ Completed Information Systems course in Goa, India (at the university, Birla Ins
 - Still creating challenging designs and layouts using `Bootstrap CSS` and media queries
 - Still effectively using version control system `git`
 
-### Ipedis India, Chennai, India *(As Front End Developer)*
+### Ipedis India, Chennai, India *(As Front End Developer - Feb 2015 to Aug 2015)*
 - Created websites using properly semantic `html`, `CSS` with `LESS` preprocessor and learned `Angular JS` with the guidance of the CTO (Yanis Ghidouche)
 - Learned to work with task manager (`grunt`) and version control system (`git`)
 - Created challenging designs and layouts using `Bootstrap CSS` and media queries
 
-### Freelance Developer, Pune, India *(As Graphic Designer and Developer)*
+### Freelance Developer, Pune, India *(As Graphic Designer and Developer - May 2012 to Dec 2014)*
 - Designed simple websites and interfaces using `Bootstrap`
 - Created dynamic elements of a websites using `javascript` APIs (geolocation, custom interaction with youtube videos, maps etc)
 - Created application with `html` templates using `mustache JS`
 - Dabbled with a little bit of `php` (storing user data from forms, php mailer, grocery CRUD)
 
-### DotAhead (now called ScreenRoot), Goa, India *(As Junior Front End Developer)*
+### DotAhead (now called ScreenRoot), Goa, India *(As Junior Front End Developer - Jul 2011 to Apr 2012)*
 - Created static websites using `html`, `CSS` and `javascript`
 - Created some interactive elements using `jQuery` plugins (carousels for images, dialog boxes that take user input and send information via `ajax` and forms with client side validation)
 - Went through the pain of developing compatibility for IE6
 
-### TransGraph, Hyderabad, India *(As an Intern)*
+### TransGraph, Hyderabad, India *(As an Intern - Jan 2011 to Jun 2011)*
 - Created `html` forms for internal applications
 - Created simple UI using `jQuery UI`
 - Integrated `html` views with business logic written in `C#`
