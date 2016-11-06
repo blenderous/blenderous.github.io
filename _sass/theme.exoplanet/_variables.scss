@@ -1,5 +1,8 @@
 @charset "UTF-8";
 
+/* base font family */
+$base-font-family: 'Open Sans', sans-serif;
+
 /* all the blah blahs */
 $text-color:       #2c8e94;
 
@@ -17,3 +20,9 @@ $grey-color-dark:  #62d0d4;
 
 /* applied to the small line at the bottom of the content */
 $grey-color-light: #d462d4;
+
+/* color of all the code inside code tags */
+$code-color:  #a9d21e;
+
+/* background of all code inside code tags */
+$code-background:  #331527;

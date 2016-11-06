@@ -44,9 +44,10 @@ $on-laptop:        800px;
 }
 
 
-// Overriding variables with custom theme
+// Overriding variables and fonts with theme variables and fonts
 @import
-        "theme.exoplanet/variables";
+        "theme.exoplanet/variables",
+        "theme.exoplanet/fonts";
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)

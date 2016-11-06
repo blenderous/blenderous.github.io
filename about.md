@@ -12,7 +12,7 @@ Started out as someone who wrote websites using plain HTML and CSS, carving out 
 ## What I like
 
 1. I enjoy working on creative front end stuff in general.
-2. I like to experiment with various javascript frameworks and go out of the way to make any possible workflow customizations, right from task runners to editor plugins, down all the way to shell scripts that make life easier.
+2. I like to experiment with various javascript frameworks and go out of the way to make any possible workflow customizations, right from task runners to text editor plugins, down all the way to shell scripts that make life easier.
 3. I also enjoy peer programming, getting through tough challenges by talking to other programmers or helping someone solve a problem by just listening and providing valuable leads.
 4. I also like to have a clear view of the project that I work on and almost always provide my insight about where it's at.
 

@@ -1,0 +1,9 @@
+/* fontface declarations */
+@import "fontface/open-sans";
+@import "fontface/journal-regular";
+
+/* Apply special type for site title */
+a.site-title {
+  font-family: 'Journal Regular', 'Open Sans', sans-serif;
+  font-size: 3em;
+}
