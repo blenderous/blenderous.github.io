@@ -23,13 +23,13 @@ The following are the steps to create a virtualhost for locally developing web a
 The following is an example virtual host configuration.
 
 ```
-		<VirtualHost *:80>
-			ServerAdmin admin@example.com
-			ServerName dev.local
-			DocumentRoot /var/www/dev.local/public_html
-			ErrorLog ${APACHE_LOG_DIR}/error.log
-			CustomLog ${APACHE_LOG_DIR}/access.log combined
-		</VirtualHost>
+<VirtualHost *:80>
+	ServerAdmin admin@example.com
+	ServerName dev.local
+	DocumentRoot /var/www/dev.local/public_html
+	ErrorLog ${APACHE_LOG_DIR}/error.log
+	CustomLog ${APACHE_LOG_DIR}/access.log combined
+</VirtualHost>
 ```
 
 #### 3. Enable this virtualhost and reload apache
