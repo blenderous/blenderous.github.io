@@ -51,7 +51,8 @@ Completed Information Systems course in Goa, India (at the university, Birla Ins
 fontface generation, markdown to HTML conversion etc.)
 
 ### Ipedis India, Chennai, India *(As Front End Developer - Feb 2015 to Aug 2015)*
-- Created websites using properly semantic `HTML`, `CSS` with `LESS` preprocessor and learned `Angular JS` under the guidance of the CTO (Yanis Ghidouche)
+- Created websites using properly semantic `HTML`, `CSS` with `LESS` preprocessor
+- Learned `Angular JS` under the guidance of the CTO (Yanis Ghidouche)
 - Learned to work with task manager (`grunt`) and version control system (`git`)
 - Created challenging designs and layouts using `Bootstrap CSS` and media queries
 
