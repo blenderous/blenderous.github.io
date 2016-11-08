@@ -10,21 +10,21 @@ The following article is full of technical terms and jargon. Proceed with cautio
 
 ## Skillset
 
-### Javascript (level: medium to advanced)
+### Javascript *(level: medium to advanced)*
 
-- Learning to use `Browserify` and `Webpack` to handle dependency injections and to manage build processes while creating a website
+- Learning to use `Browserify` and `Webpack` in order to handle dependency injections and to manage build processes while creating a website
 - Experienced in using `Angular js` to make DOM manipulations, interactive elements and to have modular front end code
 - Familiar with `Bootstrap javascript components` and other plugins for making simple interactive elements on web pages
 - Comfortable with `jQuery`
 
-### CSS (level: medium to advanced)
+### CSS *(level: medium to advanced)*
 
 - Like to write a lot of `CSS` to create proper layouts for the page/application
 - Use a `LESS` or `SASS` preprocessor to make `CSS` more re-usable
 - Know to write `media queries` to have a better layout and structure in tablet and mobile
 - Learning to make `CSS` more maintainable and well organized using naming conventions and custom libraries for the commonly used `CSS` utilities
 
-### HTML (level: advanced)
+### HTML *(level: advanced)*
 
 - Good at writing meaningful and semantic `HTML`
 - Like to use templates in concurrence with back-end frameworks (like `liquid` for ruby and `blade` for `laravel`)
