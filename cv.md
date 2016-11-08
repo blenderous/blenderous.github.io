@@ -12,10 +12,10 @@ The following article is full of technical terms and jargon. Proceed with cautio
 
 ### Javascript *(level: medium to advanced)*
 
-- Learning to use `Browserify` and `Webpack` in order to handle dependency injections and to manage build processes while creating a website
+- Learning to use `Webpack` to load resources for creating a webpage, to handle dependencies of `js` modules and to manage build processes
 - Experienced in using `Angular js` to make DOM manipulations, interactive elements and to have modular front end code
-- Familiar with `Bootstrap javascript components` and other plugins for making simple interactive elements on web pages
-- Comfortable with `jQuery`
+- Familiar with creating simple command line tools using `ES5` in the `node.js` environment
+- Comfortable with vanilla `javascript`
 
 ### CSS *(level: medium to advanced)*
 
@@ -27,9 +27,9 @@ The following article is full of technical terms and jargon. Proceed with cautio
 ### HTML *(level: advanced)*
 
 - Good at writing meaningful and semantic `HTML`
-- Like to use templates in concurrence with back-end frameworks (like `liquid` for ruby and `blade` for `laravel`)
+- Like to use templates in concurrence with back-end frameworks (like `liquid` for `jekyll` and `blade` for `laravel`)
 - Interested in writing elementary `HTML` using mixins or angular templates
-- Very much intrigued by the philosophy of `polymer` and would love to implement something similar one day
+- Very much intrigued by the philosophy of `polymer` and always looking to implement something similar in my code
 
 ## Education
 
@@ -38,7 +38,8 @@ Completed Information Systems course in Goa, India (at the university, Birla Ins
 ## Experience
 
 ### Octopouce Digital, Mauritius Islands *(As Lead Front End Developer - Sep 2015 to now)*
-- Created websites using `Angular JS`  (all the interactive elements of the website, animations and effects, modular code used in views across the website)
+- Learning to use `webpack` configuration to load `javascript` modules for a web page, pre-process `CSS` and make build quality web pages
+- Created websites using `Angular JS`  (all the interactive elements of the website, animations and for displaying model data in views across the website)
 - Integrating `HTML` views within the backend framework and templating engines like `blade` or `liquid`
 - Enhancing existing automated tasks (using `grunt` or `gulp`) and creating some new ones to have a better work­flow
 - Creating difficult to implement designs and layouts using  `Bootstrap CSS`  and `media queries`
