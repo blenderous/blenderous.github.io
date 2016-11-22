@@ -13,3 +13,9 @@ layout: default
   </div>
 
 </article>
+
+{% for js in page.jsarray %}
+     <script type="text/javascript">
+     {% include {{ js }} %}
+     </script>
+ {% endfor %}

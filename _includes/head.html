@@ -6,7 +6,21 @@
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
+  <!-- favicons -->
+  <link rel="icon" type="image/png" href="{{ '/blog-assets/favicons/16x16.png' | prepend: site.baseurl }}" sizes="16x16">
+  <link rel="icon" type="image/png" href="{{ '/blog-assets/favicons/32x32.png' | prepend: site.baseurl }}" sizes="32x32">
+  <link rel="icon" type="image/png" href="{{ '/blog-assets/favicons/64x64.png' | prepend: site.baseurl }}" sizes="64x64">
+  <link rel="icon" type="image/png" href="{{ '/blog-assets/favicons/96x96.png' | prepend: site.baseurl }}" sizes="96x96">
+
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+
+  <!-- include all the scripts loaded via CDN for this page -->
+  {% if page.jslib %}
+    {% for url in page.jslib %}
+      <script type="text/javascript" src="{{ url }}"></script>
+    {% endfor %}
+  {% endif %}
+
 </head>
