@@ -37,18 +37,18 @@ Completed Information Systems course in Goa, India (at the university, Birla Ins
 
 ## Experience
 
-### Octopouce Digital, Mauritius Islands *(As Lead Front End Developer - Sep 2015 to now)*
+### Octopouce Digital (Officially Pink Art Ltd), Mauritius Islands *(As Lead Front End Developer - Sep 2015 to now)*
 - Learning to use `webpack` configuration to load `javascript` modules for a web page, pre-process `CSS` and make build quality web pages
 - Created websites using `Angular JS`  (all the interactive elements of the website, animations and for displaying model data in views across the website)
-- Integrating `HTML` views within the backend framework and templating engines like `blade` or `liquid`
+- Integrating `HTML` views within the backend framework and templating engine `blade`
 - Enhancing existing automated tasks (using `grunt` or `gulp`) and creating some new ones to have a better work­flow
-- Creating difficult to implement designs and layouts using  `Bootstrap CSS`  and `media queries`
+- Creating visual layouts from mockups using `Bootstrap CSS`  and `media queries`
 - Using Bootstrap SASS for making uniform custom themes
 - Using [`Compass`](http://compass-style.org/), a `SASS` library to create image sprites or add vendor prefixes automatically
 - Effectively using version control system `git`
-- Attempt to create desktop application using [`NWJS`](https://nwjs.io/) (meant for project managers to easily correct textual content in code)
+- Attempt to create desktop application using [`NWJS`](https://nwjs.io/) (an application for project managers to easily correct textual content in code)
 - Experimenting with node applications (for CSS
-fontface generation, markdown to HTML conversion etc.)
+fontface generation, markdown to HTML conversion and lots of other fun things :)
 
 ### Ipedis India, Chennai, India *(As Front End Developer - Feb 2015 to Aug 2015)*
 - Created websites using properly semantic `HTML`, `CSS` with `LESS` preprocessor
