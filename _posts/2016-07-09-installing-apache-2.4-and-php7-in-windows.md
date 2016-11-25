@@ -3,6 +3,7 @@ layout: post
 title: "Installing Apache 2.4 and PHP7 in windows"
 description: "Detailed step by step description of how to get PHP7 working on an Apache 2.4 server in a windows environment"
 date: 2016-07-09
+category: ubuntu
 comments: true
 ---
 ## Installing Apache 2.4 and PHP 7 on windows

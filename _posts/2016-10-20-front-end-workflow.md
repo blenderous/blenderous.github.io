@@ -8,9 +8,9 @@ comments: true
 
 # Front End Workflow
 
-Front end development is a chaos. There are so many tools out there to make web applications and how they work and contribute to the workflow of a developer is overwhelming.
+Front end development is a chaos. There are so many tools out there to make web application, the workflow can become very complicated.
 
-Now, for this article I am assuming that you already know about (even if you haven't used) certain front end tools.
+To have a build version with the bare minimum of the resources optimized for fast loading of page and a development version with the luxury of tools that one uses to create the website is the idea.
 
 
 
@@ -30,8 +30,9 @@ Now, for this article I am assuming that you already know about (even if you hav
  - serve compressed pages
 
 ## Nice to haves
- - Lazy load for all javascript modules in the `app.js`
- - Preprocessing the js files
+ - Segregation of javascript into different files depending on if they are used uniquely by a single page/view or across one/more/all pages of an application
+ - Lazy load for all javascript modules included in the `app.js`
+ - Pre-processing the js files after linting them or converting them from `ES6` and/or `coffeescript`.
 
 ## Example folder structure
 

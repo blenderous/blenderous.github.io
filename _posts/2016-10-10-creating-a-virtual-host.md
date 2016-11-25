@@ -3,6 +3,7 @@ layout: post
 title: "Creating a virtual host in ubuntu (14.04, 16.04)"
 description: "Creating virtual hosts in ubuntu for local development"
 date: 2016-10-10
+category: ubuntu
 comments: true
 ---
 

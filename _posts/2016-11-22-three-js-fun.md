@@ -3,6 +3,7 @@ layout: post
 title: "THREE js fun"
 description: "Having fun with including a cube with a sassy texture and smooth rotating animation"
 date: 2016-11-22
+category: development
 comments: false
 jslib:
 - https://cdnjs.cloudflare.com/ajax/libs/three.js/r79/three.min.js
