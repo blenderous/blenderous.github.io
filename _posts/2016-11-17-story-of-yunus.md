@@ -6,6 +6,24 @@ date: 2016-11-17
 category: comic
 ---
 
-## Once upon a time...
+<!-- ## Once upon a time... -->
 
 <!-- ![Big Happy Whale](/blog-assets/shapes/whale.svg) -->
+
+## A Small gift
+
+This is a blanket from Kashmir.
+
+I bought this on my last trip to India.
+
+I never had the courage to give this to you.
+
+. . .
+
+I want to remember all the good things.
+
+All the things I have learned.
+
+All the conflicts you have resolved for me.
+
+Harish

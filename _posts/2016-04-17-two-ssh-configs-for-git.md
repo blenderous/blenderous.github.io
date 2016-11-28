@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SSH config for two separate git repository accounts"
+title: "SSH config for two separate git repositories"
 description: "Working with two separate git repositories."
 date: 2016-04-17
 category: development

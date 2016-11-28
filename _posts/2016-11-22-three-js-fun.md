@@ -39,11 +39,7 @@ camera.position.z = 400;
 
 ### 2. Creating a shape
 
-I made a texture that looks like this:
-
-![texture](/blog-assets/textures/red-squares-on-green.gif)
-
-Then, created a mesh with the texture
+Create a mesh with texture
 
 ``` javascript
 // making a cube
@@ -56,6 +52,9 @@ var material = new THREE.MeshBasicMaterial( { map: texture } );
 // creating a mesh from the cube and textured material
 mesh = new THREE.Mesh( geometry, material );
 ```
+The texture that looks like this:
+
+![texture](/blog-assets/textures/red-squares-on-green.gif)
 
 ### 3. The scene
 ``` javascript
