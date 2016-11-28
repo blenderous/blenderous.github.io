@@ -37,7 +37,7 @@ Completed Information Systems course in Goa, India (at the university, Birla Ins
 
 ## Experience
 
-### Octopouce Digital (Officially Pink Art Ltd), Mauritius Islands *(As Lead Front End Developer - Sep 2015 to now)*
+### Pink Art Ltd, Mauritius Islands *(As Lead Front End Developer - Sep 2015 to now)*
 - Learning to use `webpack` configuration to load `javascript` modules for a web page, pre-process `CSS` and make build quality web pages
 - Created websites using `Angular JS`  (all the interactive elements of the website, animations and for displaying model data in views across the website)
 - Integrating `HTML` views within the backend framework and templating engine `blade`
@@ -56,13 +56,13 @@ fontface generation, markdown to HTML conversion and lots of other fun things :)
 - Learned to work with task manager (`grunt`) and version control system (`git`)
 - Created challenging designs and layouts using `Bootstrap CSS` and media queries
 
-### Freelance Developer, Pune, India *(As Graphic Designer and Developer - May 2012 to Dec 2014)*
+### Freelance Developer, Pune, India *(As Graphic Designer and Web Developer - May 2012 to Dec 2014)*
 - Designed simple websites and interfaces using `Bootstrap`
 - Created dynamic elements of a websites using `javascript` APIs (geolocation, custom interaction with youtube videos, maps etc)
 - Created application with `HTML` templates using `mustache JS`
 - Dabbled with a little bit of `php` (for storing user data from forms, using php mailer to send confirmation e-mail, using of grocery CRUD for backend admin interface)
 
-### DotAhead (now called ScreenRoot), Goa, India *(As Junior Front End Developer - Jul 2011 to Apr 2012)*
+### DotAhead (now called ScreenRoot), Goa, India *(As Front End Developer - Jul 2011 to Apr 2012)*
 - Created static websites using `HTML`, `CSS` and `javascript`
 - Created some interactive elements using `jQuery` plugins (carousels for images, dialogues that take user input and send information via `ajax` and `HTML` forms with client side validation)
 - Endured the pain of developing compatibility for IE6
