@@ -37,7 +37,7 @@ Completed Information Systems course in Goa, India (at the university, Birla Ins
 
 ## Experience
 
-### Pink Art Ltd, Mauritius Islands *(As Lead Front End Developer - Sep 2015 to now)*
+### Pink Art Ltd, Mauritius Islands *(As Lead Front End Developer - Sep 2015 to Nov 2016)*
 - Learning to use `webpack` configuration to load `javascript` modules for a web page, pre-process `CSS` and make build quality web pages
 - Created websites using `Angular JS`  (all the interactive elements of the website, animations and for displaying model data in views across the website)
 - Integrating `HTML` views within the backend framework and templating engine `blade`
