@@ -4,10 +4,6 @@ title: CV
 permalink: /cv/
 ---
 
-## Careful!
-
-The following article is full of technical terms and jargon. Proceed with caution!
-
 ## Skillset
 
 ### Javascript *(level: medium to advanced)*
