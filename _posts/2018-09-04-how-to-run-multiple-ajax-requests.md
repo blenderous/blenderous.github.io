@@ -4,7 +4,7 @@ title: "How to run multiple AJAX requests (from Alexander Beletsky's development
 description: "Fetching a url using AJAX can help preloading the resource. But what if one has to run AJAX requests for multiple files?"
 date: 2018-09-04
 category: development
-comments: false
+comments: true
 
 ---
 
@@ -54,9 +54,9 @@ var pipedAjaxRequests = function (urls, callback) {
 
   promise.done(function () {
     callback(responses);
-   }).fail(function (err) {
-     callback(responses, err);
-   });
+  }).fail(function (err) {
+    callback(responses, err);
+  });
 };
 ```
 It does create the pipe of `$.get()` calls and place the responses in one response object. At the time then all resources are fetched, the callback is called. In case of errors, second parameter of callback will have error info.
