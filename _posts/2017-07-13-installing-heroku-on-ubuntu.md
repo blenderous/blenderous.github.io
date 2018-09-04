@@ -3,7 +3,7 @@ layout: post
 title: "Installing heroku on ubuntu (should work for Ubuntu 14+)"
 description: "Simple steps to install heroku using the terminal"
 date: 2017-07-13
-category: ubuntu
+category: development
 comments: true
 ---
 
