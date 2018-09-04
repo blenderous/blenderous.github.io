@@ -21,7 +21,7 @@ Even in case of several it might be still usable,
 
 ```javascript
 var url1 = '/api/resource/1';
-var url2 = '/api/resource/2'
+var url2 = '/api/resource/2';
 $.get(url1, function (r) {
     // use response from url1
 
