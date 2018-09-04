@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to run multiple AJAX requests (from ALEXANDER BELETSKY'S DEVELOPMENT BLOG)"
+title: "How to run multiple AJAX requests (from Alexander Beletsky's development blog)"
 description: "Fetching a url using AJAX can help preloading the resource. But what if one has to run AJAX requests for multiple files?"
 date: 2018-09-04
 category: development
@@ -35,7 +35,7 @@ $.get(url1, function (r) {
 
 Not long time a ago, I’ve been exactly into this situation. So, I have a list of resources to fetch, I need to issue them one-by-one and I want to have only one callback, that would pass all fetched resources in one object. Initially I thought it’s not even possible, at least with-out creation of some ugly code. But with great help of my colleagues the problem been solved.
 
-jQuery (Deferred Object)[http://api.jquery.com/category/deferred-object/] is something I’ve head about, but never got a change to play with. It turn’s out to be very nice and simple idea. Deferred allows you to build chainable constructions. Actually, `$.ajax()` always returns deferred object, so you can apply `.done()`, `.fail()` functions on it.
+jQuery [Deferred Object](http://api.jquery.com/category/deferred-object/ "The Deferred object") is something I’ve head about, but never got a change to play with. It turn’s out to be very nice and simple idea. Deferred allows you to build chainable constructions. Actually, `$.ajax()` always returns deferred object, so you can apply `.done()`, `.fail()` functions on it.
 
 Here is the code, that you could be re-usable in the same situation;
 
@@ -61,3 +61,4 @@ var pipedAjaxRequests = function (urls, callback) {
 ```
 It does create the pipe of `$.get()` calls and place the responses in one response object. At the time then all resources are fetched, the callback is called. In case of errors, second parameter of callback will have error info.
 
+Thanks a lot to [@antsamar](http://twitter.com/antsamar) and [@alex_gonchar](http://twitter.com/alex_gonchar) for helping me out.
