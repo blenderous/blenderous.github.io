@@ -1,0 +1,1 @@
+Suppose you have a list of resources that you would like to retrieve by means of AJAX. `$.ajax()` or it’s short variants like `$.get()` or `$.post()` is usual way of making AJAX calls, it works great than you need to fetch one.
