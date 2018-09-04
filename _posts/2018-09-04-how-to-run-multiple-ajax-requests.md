@@ -41,22 +41,22 @@ Here is the code, that you could be re-usable in the same situation;
 
 ```javascript
 var pipedAjaxRequests = function (urls, callback) {
- var responses = {};
+  var responses = {};
 
- var promise = $.Deferred().resolve();
- _.each(urls, function (url) {
-  promise = promise.pipe(function () {
-   return $.get(url);
-  }).done(function (response) {
-   responses[url] = response;
+  var promise = $.Deferred().resolve();
+  _.each(urls, function (url) {
+    promise = promise.pipe(function () {
+      return $.get(url);
+    }).done(function (response) {
+      responses[url] = response;
+    });
   });
- });
 
- promise.done(function () {
-  callback(responses);
- }).fail(function (err) {
-  callback(responses, err);
- });
+  promise.done(function () {
+    callback(responses);
+   }).fail(function (err) {
+     callback(responses, err);
+   });
 };
 ```
 It does create the pipe of `$.get()` calls and place the responses in one response object. At the time then all resources are fetched, the callback is called. In case of errors, second parameter of callback will have error info.
