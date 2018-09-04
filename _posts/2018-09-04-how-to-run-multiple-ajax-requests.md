@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to run multiple AJAX requests"
+title: "How to run multiple AJAX requests (from Alexander Beletsky's development blog)"
 description: "Fetching a url using AJAX can help preloading the resource. But what if one has to run AJAX requests for multiple files?"
 date: 2018-09-04
 category: development
