@@ -62,6 +62,11 @@ The texture that looks like this:
 scene = new THREE.Scene();
 // add the mesh
 scene.add( mesh );
+renderer = new THREE.WebGLRenderer();
+renderer.setPixelRatio( window.devicePixelRatio );
+renderer.setSize( 640, 480 );
+// renderer.render( scene, camera );
+document.getElementsByTagName('article')[0].appendChild( renderer.domElement );
 ```
 
 ### 4. Animation of the cube
