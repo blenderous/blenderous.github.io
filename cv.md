@@ -7,7 +7,7 @@ permalink: /cv/
 ## Skillset
 
 ### Javascript *(level: medium to advanced)*
-
+- Leraned to make a web application MongoDB, Express and jQuery and deployed it to heroku. [Here is the link](https://daily-checklist-app.herokuapp.com/)
 - Experienced in using `Angular js` to make DOM manipulations, interactive elements and to have modular front end code
 - Familiar with creating simple command line tools using `ES5` in the `node.js` environment
 - Comfortable with vanilla `javascript`
@@ -16,7 +16,7 @@ permalink: /cv/
 
 - Like to write a lot of `CSS` to create proper layouts for the page/application
 - Use a `LESS` or `SASS` preprocessor to make `CSS` more re-usable
-- Know to write `media queries` to have a better layout and structure in tablet and mobile
+- Know to write `media queries` to have a proper layout and structure in tablet and mobile
 - Learning to make `CSS` more maintainable and well organized using naming conventions and custom libraries for the commonly used `CSS` utilities
 
 ### HTML *(level: advanced)*
@@ -31,6 +31,11 @@ permalink: /cv/
 Completed Information Systems course in Goa, India (at the university, Birla Insitute of Technology and Science).
 
 ## Experience
+
+### Netcom computers India Pvt. Ltd.
+- Enhanced their [http://newcommediaworks.com](previous website)
+- Created a short one page website for their Mediaworks business (site hasn't been hosted yet)
+- Created a website for Kevin's Production which is all about kids and activities for them (site hasn't been hosted).
 
 ### Pink Art Ltd, Mauritius Islands *(As Lead Front End Developer - Sep 2015 to Nov 2016)*
 - Created websites using `Angular JS`  (all the interactive elements of the website, animations and for displaying model data in views across the website)
