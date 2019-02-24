@@ -32,7 +32,7 @@ Completed Information Systems course in Goa, India (at the university, Birla Ins
 
 ## Experience
 
-### Netcom computers India Pvt. Ltd.
+### Netcom computers India Pvt. Ltd. *(As a web developer - Aug 2018 to Feb 2019)*
 - Enhanced their [main webiste](http://netcomcomputers.com)
 - Created a short one page website for their Mediaworks business (site hasn't been hosted yet)
 - Created a website for Kevin's Production which is all about kids and activities for kids (site hasn't been hosted).
