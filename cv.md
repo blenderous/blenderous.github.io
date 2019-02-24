@@ -33,9 +33,9 @@ Completed Information Systems course in Goa, India (at the university, Birla Ins
 ## Experience
 
 ### Netcom computers India Pvt. Ltd.
-- Enhanced their [http://newcommediaworks.com](previous website)
+- Enhanced their [main webiste](http://netcomcomputers.com)
 - Created a short one page website for their Mediaworks business (site hasn't been hosted yet)
-- Created a website for Kevin's Production which is all about kids and activities for them (site hasn't been hosted).
+- Created a website for Kevin's Production which is all about kids and activities for kids (site hasn't been hosted).
 
 ### Pink Art Ltd, Mauritius Islands *(As Lead Front End Developer - Sep 2015 to Nov 2016)*
 - Created websites using `Angular JS`  (all the interactive elements of the website, animations and for displaying model data in views across the website)
