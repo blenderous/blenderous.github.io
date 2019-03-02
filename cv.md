@@ -7,7 +7,7 @@ permalink: /cv/
 ## Skillset
 
 ### Javascript *(level: medium to advanced)*
-- Leraned to make a web application MongoDB, Express and jQuery and deployed it to heroku. [Here is the link](https://daily-checklist-app.herokuapp.com/)
+- Learned to make a web application MongoDB, ExpressJS and jQuery and NodeJS. [Here is the link](https://daily-checklist-app.herokuapp.com/)
 - Experienced in using `Angular js` to make DOM manipulations, interactive elements and to have modular front end code
 - Familiar with creating simple command line tools using `ES5` in the `node.js` environment
 - Comfortable with vanilla `javascript`
