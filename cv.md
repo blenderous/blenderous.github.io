@@ -28,7 +28,7 @@ I am usually very reserved. I prefer to communicate in writing a lot, but I proi
 
 - Like to write a lot of `CSS` to create proper layouts for the page/application
 - Use a `LESS` or `SASS` preprocessor to make `CSS` more re-usable
-- Know to write `media queries` to have a proper layout and structure in tablet and mobile
+- Know how to write `media queries` in order have a proper layout and structure in tablet and mobile
 - Learning to make `CSS` more maintainable and well organized using naming conventions and custom libraries for the commonly used `CSS` utilities
 
 ### HTML *(level: advanced)*
@@ -40,7 +40,7 @@ I am usually very reserved. I prefer to communicate in writing a lot, but I proi
 
 ## Education
 
-Completed Information Systems course in Goa, India (at the university, Birla Insitute of Technology and Science).
+Completed Information Systems course in Goa, India (at the university, Birla Insitute of Technology and Science KK Birla, Goa campus).
 
 ## Experience
 
