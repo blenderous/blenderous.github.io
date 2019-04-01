@@ -10,7 +10,7 @@ I mostly work with front end technologies, so at the end of the day I make inter
 
 My ideal working environment is where the doors for conversations are always open and ideas are constantly exchanged.
 
-I am usually very reserved. I prefer to communicate through writing a lot, but I proiritize getting though hurdles of mis-communication whenever there is a lack of clarity.
+I prefer to communicate through writing a lot, but I proiritize getting though hurdles of mis-communication whenever there is a lack of clarity.
 
 ## Skillset
 
