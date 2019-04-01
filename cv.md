@@ -3,12 +3,20 @@ layout: page
 title: CV
 permalink: /cv/
 ---
+## About me
+I am a front-end devleoper who is aiming at full-stack javascript development.
+
+I mostly work with front end technologies, so at the end of the day I make interfaces for mobiles, tablets and desktop computers. A lot of effort goes into making the concept made by the designers into something that you can see and interact with on the screen.
+
+My ideal working environment is where the doors for conversations are always open and ideas are constantly exchanged.
+
+I am usually very reserved. I prefer to communicate in writing a lot, but I proiritize getting though hurdles of mis-communication whenever there is a lack of clarity.
 
 ## Skillset
 
 ### Javascript *(level: medium to advanced)*
-- Learned to make a web application MongoDB, ExpressJS and jQuery and NodeJS. [Here is the link](https://daily-checklist-app.herokuapp.com/)
-- Experienced in using `Angular js` to make DOM manipulations, interactive elements and to have modular front end code
+- Learned to make a web application MongoDB, ExpressJS and jQuery and NodeJS. Here is the link: https://daily-checklist-app.herokuapp.com/
+- Experienced in using `Angular js`version 1 to make DOM manipulations, interactive elements and to have modular front end code
 - Familiar with creating simple command line tools using `ES5` in the `node.js` environment
 - Comfortable with vanilla `javascript`
 
