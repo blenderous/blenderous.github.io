@@ -14,8 +14,12 @@ I am usually very reserved. I prefer to communicate in writing a lot, but I proi
 
 ## Skillset
 
+### MongoDB *(level: basic)*
+- Learned to use MongoDB noSQL database using the basic level certification course on their website.
+
 ### Javascript *(level: medium to advanced)*
 - Learned to make a web application MongoDB, ExpressJS and jQuery and NodeJS. Here is the link: https://daily-checklist-app.herokuapp.com/
+- Learning to use ES6 and Babel.
 - Experienced in using `Angular js`version 1 to make DOM manipulations, interactive elements and to have modular front end code
 - Familiar with creating simple command line tools using `ES5` in the `node.js` environment
 - Comfortable with vanilla `javascript`
