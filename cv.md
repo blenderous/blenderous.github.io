@@ -25,14 +25,12 @@ I prefer to communicate through writing a lot, but I proiritize getting though h
 - Comfortable with vanilla `javascript`
 
 ### CSS *(level: medium to advanced)*
-
+- Know how to write `media queries` in order have a proper layout and structure in tablet and mobile
 - Like to write a lot of `CSS` to create proper layouts for the page/application
 - Use a `LESS` or `SASS` preprocessor to make `CSS` more re-usable
-- Know how to write `media queries` in order have a proper layout and structure in tablet and mobile
 - Learning to make `CSS` more maintainable and well organized using naming conventions and custom libraries for the commonly used `CSS` utilities
 
 ### HTML *(level: advanced)*
-
 - Good at writing meaningful and semantic `HTML`
 - Like to use templates in concurrence with back-end frameworks (like `liquid` for `jekyll` and `blade` for `laravel`)
 - Interested in writing elementary `HTML` using mixins or angular templates
