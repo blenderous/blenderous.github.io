@@ -20,7 +20,7 @@ I prefer to communicate through writing a lot, but I proiritize getting though h
 ### Javascript *(level: medium to advanced)*
 - Learned to make a web application MongoDB, ExpressJS and jQuery and NodeJS. Here is the link: https://daily-checklist-app.herokuapp.com/
 - Learning to use ES6 and Babel.
-- Experienced in using `Angular js`version 1 to make DOM manipulations, interactive elements and to have modular front end code
+- Experienced in using `Angular js` version 1 to make DOM manipulations, interactive elements and to have modular front end code
 - Familiar with creating simple command line tools using `ES5` in the `node.js` environment
 - Comfortable with vanilla `javascript` and `jQuery`
 
@@ -43,7 +43,7 @@ Completed Information Systems course in Goa, India (at the university, Birla Ins
 ## Experience
 
 ### Netcom computers India Pvt. Ltd. *(As a web developer - Aug 2018 to Feb 2019)*
-- Enhanced their [main webiste](http://netcomcomputers.com)
+- Enhanced their main webiste http://netcomcomputers.com
 - Created a short one page website for their Mediaworks business (site hasn't been hosted yet)
 - Created a website for Kevin's Production which is all about kids and activities for kids (site hasn't been hosted).
 
