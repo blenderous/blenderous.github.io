@@ -22,7 +22,7 @@ I prefer to communicate through writing a lot, but I proiritize getting though h
 - Learning to use ES6 and Babel.
 - Experienced in using `Angular js`version 1 to make DOM manipulations, interactive elements and to have modular front end code
 - Familiar with creating simple command line tools using `ES5` in the `node.js` environment
-- Comfortable with vanilla `javascript`
+- Comfortable with vanilla `javascript` and `jQuery`
 
 ### CSS *(level: medium to advanced)*
 - Know how to write `media queries` in order have a proper layout and structure in tablet and mobile
