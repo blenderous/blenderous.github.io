@@ -18,6 +18,7 @@ I prefer to communicate through writing a lot, but I proiritize getting though h
 - Learned to use MongoDB noSQL database using the basic level certification course on the MongoDB website.
 
 ### Javascript *(level: medium to advanced)*
+- Completed the lesson on react `ReactJS`part 1, from codecademy.
 - Learned to make a web application MongoDB, ExpressJS and jQuery and NodeJS. Here is the link: https://daily-checklist-app.herokuapp.com/
 - Learning to use ES6 and Babel.
 - Experienced in using `Angular js` version 1 to make DOM manipulations, interactive elements and to have modular front end code
