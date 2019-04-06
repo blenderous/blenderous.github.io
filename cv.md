@@ -49,7 +49,7 @@ Completed Information Systems course in Goa, India (at the university, Birla Ins
 - Created a website for Kevin's Production which is all about kids and activities for kids (site hasn't been hosted).
 
 ### Charmboard Pvt. Lt. *(As a Front End Developer - Aug 2017 - Nov 2017)*
-- Created a blog for the company, designed it on my own.
+- Created a blog for the company, designed it on my own using `HTML` and `CSS`.
 - Created a corporate website, designed it as per requirement.
 
 ### Freelance Developer, Chennai *(As web developer - Jan 2017 to Aug 2017)*
@@ -66,7 +66,7 @@ Completed Information Systems course in Goa, India (at the university, Birla Ins
 - Effectively using version control system `git`
 - Attempt to create desktop application using [`NWJS`](https://nwjs.io/) (an application for project managers to easily correct textual content in code)
 - Experimenting with node applications (for CSS
-fontface generation, markdown to HTML conversion and lots of other fun things :)
+fontface generation, markdown to name a few)
 
 ### Ipedis India, Chennai, India *(As Front End Developer - Feb 2015 to Aug 2015)*
 - Created websites using properly semantic `HTML`, `CSS` with `LESS` preprocessor
