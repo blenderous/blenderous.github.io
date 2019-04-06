@@ -43,13 +43,21 @@ Completed Information Systems course in Goa, India (at the university, Birla Ins
 
 ## Experience
 
-### Netcom computers India Pvt. Ltd. *(As a web developer - Aug 2018 to Feb 2019)*
+### Netcom computers India Pvt. Ltd. *(As a web developer - Jan 2018 to Feb 2019)*
 - Enhanced their main webiste http://netcomcomputers.com
 - Created a short one page website for their Mediaworks business (site hasn't been hosted yet)
 - Created a website for Kevin's Production which is all about kids and activities for kids (site hasn't been hosted).
 
+### Charmboard Pvt. Lt. *(As a Front End Developer - Aug 2017 - Nov 2017)*
+- Created a blog for the company, designed it on my own.
+- Created a corporate website, designed it as per requirement.
+
+### Freelance Developer, Chennai *(As web developer - Jan 2017 to Aug 2017)*
+- Built a website for the solar energy company called Dunamis.
+- Created a wordpress blog to write opinions about political issues.
+
 ### Pink Art Ltd, Mauritius Islands *(As Lead Front End Developer - Sep 2015 to Nov 2016)*
-- Created websites using `Angular JS`  (all the interactive elements of the website, animations and for displaying model data in views across the website)
+- Created websites using `Angular JS` version 1  (all the interactive elements of the website, animations and for displaying model data in views across the website)
 - Integrating `HTML` views within the backend framework and templating engine `blade`
 - Enhancing existing automated tasks (using `grunt` or `gulp`) and creating some new ones to have a better work­flow
 - Creating visual layouts from mockups using `Bootstrap CSS`  and `media queries`
@@ -62,7 +70,7 @@ fontface generation, markdown to HTML conversion and lots of other fun things :)
 
 ### Ipedis India, Chennai, India *(As Front End Developer - Feb 2015 to Aug 2015)*
 - Created websites using properly semantic `HTML`, `CSS` with `LESS` preprocessor
-- Learned `Angular JS` under the guidance of the CTO (Yanis Ghidouche)
+- Learned `Angular JS` version 1 under the guidance of the CTO (Yanis Ghidouche)
 - Learned to work with task manager (`grunt`) and version control system (`git`)
 - Created challenging designs and layouts using `Bootstrap CSS` and media queries
 
