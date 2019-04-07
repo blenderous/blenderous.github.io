@@ -6,7 +6,7 @@ permalink: /cv/
 ## About me
 I am a front-end devleoper who is learning full-stack javascript development.
 
-I mostly work with front end technologies, so at the end of the day I make interfaces for mobiles, tablets and desktop computers. A lot of effort goes into making the concept made by the designers into something that can be seen and interacted with on the screen.
+I mostly work with front end technologies, so at the end of the day, I make interfaces for mobiles, tablets and desktop computers. A lot of effort goes into making the concept made by the designers into something that can be seen and interacted with on the screen.
 
 My ideal working environment is where the doors for conversations are always open and ideas are constantly exchanged.
 
@@ -46,7 +46,7 @@ Completed Information Systems course in Goa, India (at the university, Birla Ins
 Apart from the period when I used to do freelance work, I have 2 and a half years of experience.
 
 ### Netcom computers India Pvt. Ltd. *(As a web developer - Jan 2018 to Mar 2019)*
-- Enhanced their main webiste http://netcomcomputers.com
+- Enhanced their main website http://netcomcomputers.com
 - Created a short one page website for their Mediaworks business (site hasn't been hosted yet)
 - Created a website for Kevin's Production which is all about kids and activities for kids (site hasn't been hosted).
 
