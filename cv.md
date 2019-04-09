@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 ## About me
-I am a front-end devleoper who is learning full-stack javascript development.
+I am a front-end devleoper who is learning `Reac.js`.
 
 I mostly work with front end technologies, so at the end of the day, I make interfaces for mobiles, tablets and desktop computers. A lot of effort goes into making the concept made by the designers into something that can be seen and interacted with on the screen.
 
