@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 ## About me
-I am a front-end devleoper who is learning fullstack javascript development.
+I am a front-end developer who is learning fullstack javascript development.
 
 I mostly work with front end technologies, so at the end of the day, I make interfaces for mobiles, tablets and desktop computers. A lot of effort goes into making the concept made by the designers into something that can be seen and interacted with on the screen.
 
@@ -43,7 +43,7 @@ Completed Information Systems course in Goa, India (at the university, Birla Ins
 
 ## Experience
 
-Apart from the period when I used to do freelance work, I have 2 and a half years of experience.
+Apart from the period when I used to do freelance work, I have 2 years and 7 months of experience.
 
 ### Netcom computers India Pvt. Ltd. *(As a web developer - Jan 2018 to Mar 2019)*
 - Enhanced their main website http://netcomcomputers.com
