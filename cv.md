@@ -22,7 +22,7 @@ hurdles of miscommunication whenever there is a lack of clarity.
 ## Skillset
 
 ### MongoDB *(level: basic)*
-- Learned to use MongoDB noSQL database using the basic level certification course on the MongoDB website.
+- Learned to use MongoDB noSQL database using the basic level certification course from the MongoDB website.
 
 ### Javascript *(level: medium to advanced)*
 - Completed the lesson on react `ReactJS`part 1, from codecademy.
