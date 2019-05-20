@@ -51,7 +51,7 @@ Completed Information Systems course in Goa, India (at the university, Birla Ins
 
 ## Experience
 
-Apart from the period when I used to do freelance work, I have 2 years and 7 months of experience.
+Apart from the period when I did freelance work, I have 2 years and 7 months of experience.
 
 ### Netcom computers India Pvt. Ltd. *(As a web developer - Jan 2018 to Mar 2019)*
 - Enhanced their main website http://netcomcomputers.com
