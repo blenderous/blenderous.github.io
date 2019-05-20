@@ -6,18 +6,18 @@ permalink: /cv/
 ## About me
 I am a front-end developer who is learning full-stack javascript development.
 
-I mostly work with front end technologies, so at the end of the day, I make
+I mostly work with front end technologies, so I make
 interfaces for mobiles, tablets and desktop computers. A lot of effort goes
 into making the concept made by the designers into something that can be
 seen and interacted with on the screen.
 
-I also enjoy making applications using Javascript frameworks like Angular or libraries like React.
+I also enjoy making applications using Javascript frameworks like Angular and libraries like React.
 
 My ideal working environment is where the doors for conversations are
 always open and ideas are constantly exchanged.
 
 I prefer to communicate through writing a lot, but I prioritize getting though
-hurdles of miscommunication whenever there is a lack of clarity.
+hurdles of miscommunication verbally whenever there is a lack of clarity.
 
 ## Skillset
 
