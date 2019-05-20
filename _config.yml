@@ -11,8 +11,8 @@ email: hponenonly@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   My name is harish.
   Love to write code, especially javascript, SASS and meaningful HTML.
-  I like the Node environment, Atom text editor and GIT source control.
-  While not writing code, I am usually writing screenplay for movies.
+  I like the Node environment, Visual Studio text editor and GIT source control.
+  While not writing code, I am wondering about the future of mankind.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blenderous.github.io" # the base hostname & protocol for your site
 twitter_username: blenderous
