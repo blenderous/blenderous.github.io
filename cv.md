@@ -26,7 +26,7 @@ hurdles of miscommunication verbally whenever there is a lack of clarity.
 
 ### Javascript *(level: medium to advanced)*
 - Completed the lesson on react `ReactJS`part 1, from codecademy.
-- Created a web application using `NodeJS` and `ExpressJS` express for the backend and `jQuery` for front-end. For database, I have used `MongoDB`. Link to the application: https://daily-checklist-app.herokuapp.com/
+- Created a web application using `NodeJS` and `ExpressJS` express for the backend and `jQuery` for front-end. For database, I have used `MongoDB`. Link to the application: [Click here](https://daily-checklist-app.herokuapp.com/ "Application")
 - Learning to use ES6 and Babel.
 - Learning Angular 6
 - Experienced in using `Angular js` version 1 to make DOM manipulations, interactive elements and to have modular front end code
