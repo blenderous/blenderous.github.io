@@ -4,9 +4,9 @@ title: CV
 permalink: /cv/
 ---
 ## About me
-I am a front-end developer who is learning full-stack javascript development.
+I am a front-end developer who is learning React.js.
 
-I work with front end technologies which means, I make
+Working with front end technologies means, making
 interfaces for mobiles, tablets and desktop computers. A lot of effort goes
 into making the concept made by the designers into something that can be
 seen and interacted with on the screen.
@@ -28,7 +28,6 @@ hurdles of miscommunication verbally whenever there is a lack of clarity.
 - Completed the lesson on react `ReactJS`part 1, from codecademy.
 - Created a web application using `NodeJS` and `ExpressJS` express for the backend and `jQuery` for front-end. For database, I have used `MongoDB`. Link to the application: [click here](https://daily-checklist-app.herokuapp.com/ "Application").
 - Learning to use ES6 and Babel.
-- Learning Angular 6
 - Experienced in using `Angular js` version 1 to make DOM manipulations, interactive elements and to have modular front end code
 - Familiar with creating simple command line tools using `ES5` in the `node.js` environment
 - Comfortable with vanilla `javascript` and `jQuery`
