@@ -4,14 +4,12 @@ title: CV
 permalink: /cv/
 ---
 ## About me
-I am a front-end developer who is creative and also delivers.
+I am a front-end developer who is learning `React.js`.
 
 Working with front end technologies means, making
 interfaces for mobiles, tablets and desktop computers. A lot of effort goes
 into making the concept made by the designers into something that can be
 seen and interacted with on the screen.
-
-I also enjoy making applications using Javascript frameworks like Angular and libraries like React.
 
 My ideal working environment is where the doors for conversations are
 always open and ideas are constantly exchanged.
