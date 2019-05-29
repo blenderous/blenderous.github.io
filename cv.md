@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 ## About me
-I am a front-end developer who is learning React.js.
+I am a front-end developer who is creative and also delivers.
 
 Working with front end technologies means, making
 interfaces for mobiles, tablets and desktop computers. A lot of effort goes
