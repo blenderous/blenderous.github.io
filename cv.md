@@ -25,8 +25,9 @@ hurdles of miscommunication verbally whenever there is a lack of clarity.
 - Learned to use MongoDB noSQL database using the basic level certification course from the MongoDB website.
 
 ### Javascript *(level: medium to advanced)*
-- Completed the lesson on react `ReactJS`part 1, from codecademy.
-- Created a web application using `NodeJS` and `ExpressJS` express for the backend and `jQuery` for front-end. For database, I have used `MongoDB`. Link to the application: [click here](https://daily-checklist-app.herokuapp.com/ "Application").
+- Created a question and answer application using `React.js` and deployed it on [heroku](https://powerful-fortress-45267.herokuapp.com/questionnaire-app). The questions are from a file called Data.js and a bar graph about correct and wrong answers is shown when the user submits. The source code of the application can be found [here](https://github.com/blenderous/questionnaire-app).
+- Completed the lesson on `ReactJS` part I, from codecademy.
+- Created a web application using `NodeJS` and `ExpressJS` for the backend and `jQuery` for front-end. For database, I have used `MongoDB`. Link to the application: [click here](https://daily-checklist-app.herokuapp.com/ "Application").
 - Learning to use ES6 and Babel.
 - Experienced in using `Angular js` version 1 to make DOM manipulations, interactive elements and to have modular front end code
 - Familiar with creating simple command line tools using `ES5` in the `node.js` environment
