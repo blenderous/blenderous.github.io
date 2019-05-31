@@ -22,7 +22,7 @@ hurdles of miscommunication verbally whenever there is a lack of clarity.
 ## Skillset
 
 ### MongoDB *(level: basic)*
-- Learned to use MongoDB noSQL database using the basic level certification course from the MongoDB website.
+- Learned to use `MongoDB` `noSQL` database using the basic level certification course from the MongoDB website.
 
 ### Javascript *(level: medium to advanced)*
 - Created a question and answer application using `ReactJS` and deployed it on [heroku](https://powerful-fortress-45267.herokuapp.com/questionnaire-app). The questions are from a file called Data.js and a bar graph about correct and wrong answers is shown when the user submits. The source code of the application can be found [here](https://github.com/blenderous/questionnaire-app).
