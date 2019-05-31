@@ -11,7 +11,7 @@ interfaces for mobiles, tablets and desktop computers. A lot of effort goes
 into making the concept made by the designers into something that can be
 seen and interacted with on the screen.
 
-I am also learning to make applications using `React.js`.
+I am also learning to make applications using `ReactJS`.
 
 My ideal working environment is where the doors for conversations are
 always open and ideas are constantly exchanged.
@@ -25,7 +25,7 @@ hurdles of miscommunication verbally whenever there is a lack of clarity.
 - Learned to use MongoDB noSQL database using the basic level certification course from the MongoDB website.
 
 ### Javascript *(level: medium to advanced)*
-- Created a question and answer application using `React.js` and deployed it on [heroku](https://powerful-fortress-45267.herokuapp.com/questionnaire-app). The questions are from a file called Data.js and a bar graph about correct and wrong answers is shown when the user submits. The source code of the application can be found [here](https://github.com/blenderous/questionnaire-app).
+- Created a question and answer application using `ReactJS` and deployed it on [heroku](https://powerful-fortress-45267.herokuapp.com/questionnaire-app). The questions are from a file called Data.js and a bar graph about correct and wrong answers is shown when the user submits. The source code of the application can be found [here](https://github.com/blenderous/questionnaire-app).
 - Completed the lesson on `ReactJS` part I, from codecademy.
 - Created a web application using `NodeJS` and `ExpressJS` for the backend and `jQuery` for front-end. For database, I have used `MongoDB`. Link to the application: [click here](https://daily-checklist-app.herokuapp.com/ "Application").
 - Learning to use ES6 and Babel.
@@ -51,6 +51,7 @@ Completed Information Systems course in Goa, India (at the university, Birla Ins
 
 ## Experience
 
+I have a total experience of more than 8 years.
 Apart from the period when I did freelance work, I have 2 years and 7 months of experience.
 
 ### Netcom computers India Pvt. Ltd. *(As a web developer - Jan 2018 to March 2018)*
