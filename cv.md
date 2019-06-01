@@ -89,7 +89,7 @@ fontface generation, markdown to name a few)
 - Designed simple websites and interfaces using `Bootstrap`
 - Created dynamic elements of a websites using `javascript` APIs (geolocation, custom interaction with youtube videos, maps etc)
 - Created application with `HTML` templates using `mustache JS`
-- Dabbled with a little bit of `php` (for storing user data from forms, using php mailer to send confirmation e-mail, using of grocery CRUD for backend admin interface)
+- Dabbled with a little bit of `PHP` (for storing user data from forms, using php mailer to send confirmation e-mail, using of grocery CRUD for backend admin interface)
 
 ### DotAhead (now called ScreenRoot), Goa, India *(As Front End Developer - Jul 2011 to Apr 2012)*
 - Created static websites using `HTML`, `CSS` and `javascript`
