@@ -54,7 +54,7 @@ Completed Information Systems course in Goa, India (at the university, Birla Ins
 I have a total experience of 8 years.
 Apart from the period when I did freelance work, I worked for 2 years and 7 months.
 
-### Netcom computers India Pvt. Ltd. *(As a web developer - Jan 2018 to March 2018)*
+### Netcom computers India Pvt. Ltd. *(As a web developer - Jan 2018 to March 2019)*
 - Enhanced their [main website](http://netcomcomputersindia.com).
 - Created a short one page website for their Mediaworks business (site hasn't been hosted yet)
 - Created a website for Kevin's Production which is all about kids and activities for kids (site hasn't been hosted).
