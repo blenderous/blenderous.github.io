@@ -1,4 +1,13 @@
-## Deploy React App to Github Pages
+---
+layout: post
+title: "Deploy a React App to Github Pages"
+description: "Step by step information on how to deploy a react app to github pages"
+date: 2020-01-23
+category: development
+comments: true
+---
+
+## Deploy a React App to Github Pages
 The following steps lead you to make a react app on github pages:
 ### Step 1
   Open your package.json and add a homepage field for your project:
