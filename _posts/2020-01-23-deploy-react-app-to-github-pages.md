@@ -27,7 +27,7 @@ The following steps lead you to make a react app on github pages:
   
   Run the command in project folder, with the URL of your repository on GitHub.
   ```
-    git remote add origin <url>
+    git remote add origin https://github.com/username/my-app
   ```
 ### Step 3: Deploy the site by running npm run deploy
   ```
