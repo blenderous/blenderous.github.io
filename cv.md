@@ -28,6 +28,7 @@ hurdles of miscommunication verbally whenever there is a lack of clarity.
 - Created a question and answer application using `ReactJS` and deployed it using Github Pages: [https://blenderous.github.io/questionnaire-app/](https://blenderous.github.io/questionnaire-app/). The source code of the application can be found here: [https://github.com/blenderous/questionnaire-app](https://github.com/blenderous/questionnaire-app).
 - Completed the lesson on `ReactJS`, from codecademy.
 - Created a web application using `NodeJS` and `ExpressJS` (back-end) and `jQuery`(front-end). For database, I have used `MongoDB`. Link to the application: [https://daily-checklist-app.herokuapp.com/](https://daily-checklist-app.herokuapp.com/).
+- Created a pokedex (an index of pokemons :) [https://blenderous.github.io/pokedex/](https://blenderous.github.io/pokedex/)
 - Learning to use ES6 and Babel.
 - Experienced in using `Angular js` version 1 to make DOM manipulations, interactive elements and to have modular front end code
 - Familiar with creating simple command line tools using `ES5` in the `node.js` environment
