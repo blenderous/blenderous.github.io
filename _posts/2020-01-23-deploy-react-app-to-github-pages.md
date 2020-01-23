@@ -43,4 +43,4 @@ The following steps lead you to make a react app on github pages:
   npm run deploy
   ```
 ### Step 4: For a project page, ensure your project’s settings use gh-pages
-  Finally, make sure GitHub Pages option in your GitHub project settings is set to use the gh-pages branch:
+  Finally, make sure GitHub Pages option in your GitHub project settings is set to use the gh-pages branch.
