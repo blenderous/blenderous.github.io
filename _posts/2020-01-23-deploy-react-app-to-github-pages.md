@@ -38,7 +38,7 @@ The following steps lead you to make a react app on github pages:
   ```
     git remote add origin https://github.com/username/my-app
   ```
-### Step 3: Deploy the site by running npm run deploy
+### Step 3: Deploy the site by running `npm run deploy`
   ```
   npm run deploy
   ```
