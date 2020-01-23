@@ -29,8 +29,8 @@ The following steps lead you to make a react app on github pages:
   "scripts": {
 +   "predeploy": "npm run build",
 +   "deploy": "gh-pages -d build",
-      "start": "react-scripts start",
-      "build": "react-scripts build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
   ```
   The predeploy script will run automatically before deploy is run.
   
