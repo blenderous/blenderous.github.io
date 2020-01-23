@@ -26,7 +26,7 @@ hurdles of miscommunication verbally whenever there is a lack of clarity.
 
 ### Javascript *(level: medium to advanced)*
 - Created a question and answer application using `ReactJS` and deployed it using Github Pages: [https://blenderous.github.io/questionnaire-app/](https://blenderous.github.io/questionnaire-app/). The source code of the application can be found here: [https://github.com/blenderous/questionnaire-app](https://github.com/blenderous/questionnaire-app).
-- Completed the lesson on `ReactJS` part I, from codecademy.
+- Completed the lesson on `ReactJS`, from codecademy.
 - Created a web application using `NodeJS` and `ExpressJS` (back-end) and `jQuery`(front-end). For database, I have used `MongoDB`. Link to the application: [https://daily-checklist-app.herokuapp.com/](https://daily-checklist-app.herokuapp.com/).
 - Learning to use ES6 and Babel.
 - Experienced in using `Angular js` version 1 to make DOM manipulations, interactive elements and to have modular front end code
