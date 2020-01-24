@@ -55,12 +55,12 @@ Completed Information Systems course in Goa, India (at the university, Birla Ins
 I have a total experience of 8 years.
 Apart from the period when I did freelance work, I worked for 4 years and 2 months.
 
-### Netcom computers India Pvt. Ltd. *(As a web developer - Jan 2018 to March 2019)*
+### Netcom computers India Pvt. Ltd., Tirunelveli *(As a web developer - Jan 2018 to March 2019)*
 - Enhanced their [main website](http://netcomcomputersindia.com).
 - Created a short one page website for their Mediaworks business (site hasn't been hosted yet)
 - Created a website for Kevin's Production which is all about kids and activities for kids (site hasn't been hosted).
 
-### Charmboard Pvt. Lt. *(As a Front End Developer - Aug 2017 - Nov 2017)*
+### Charmboard Pvt. Ltd., Bangalore *(As a Front End Developer - Aug 2017 - Nov 2017)*
 - Created a blog for the company, designed it on my own using `HTML` and `CSS`.
 - Created a corporate website, designed it as per requirement.
 
