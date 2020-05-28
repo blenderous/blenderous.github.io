@@ -48,7 +48,7 @@ hurdles of miscommunication verbally whenever there is a lack of clarity.
 
 ## Education
 
-Completed Information Systems course in Goa, India (at the university, Birla Insitute of Technology and Science KK Birla, Goa campus).
+Completed MSc.(Tech.) Information Systems course in Goa, India (at the university, Birla Insitute of Technology and Science KK Birla, Goa campus).
 
 ## Experience
 
