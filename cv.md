@@ -52,7 +52,7 @@ Completed MSc.(Tech.) Information Systems course in Goa, India (at the universit
 
 ## Experience
 
-I have a total experience of 8 years.
+I have a total experience of 9 years.
 Apart from the period when I did freelance work, I worked for 4 years and 2 months.
 
 ### Psychometry for Ahana Hospitals, Madurai *(Jan 2019 - March 2019)*
@@ -71,7 +71,7 @@ Apart from the period when I did freelance work, I worked for 4 years and 2 mont
 - Built a website for the solar energy company called Dunamis.
 - Created a wordpress blog to write opinions about political issues.
 
-### Pink Art Ltd, Mauritius Islands (Own company of Ipedis Chennai) *(As Lead Front End Developer - Sep 2015 to Nov 2016)*
+### Pink Art Ltd, Mauritius Islands *(As Lead Front End Developer - Sep 2015 to Nov 2016)*
 - Created websites using `Angular JS` version 1  (all the interactive elements of the website, animations and for displaying model data in views across the website)
 - Integrating `HTML` views within the backend framework and templating engine `blade`
 - Enhancing existing automated tasks (using `grunt` or `gulp`) and creating some new ones to have a better work­flow
