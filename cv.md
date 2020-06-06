@@ -60,7 +60,7 @@ Apart from the period when I did freelance work, I worked for 4 years and 2 mont
 
 ### Netcom computers India Pvt. Ltd., Tirunelveli *(As a web developer - Jan 2018 to Dec 2019)*
 - Enhanced their [main website](http://netcomcomputersindia.com).
-- Created a short one page website for their Mediaworks business (site hasn't been hosted yet)
+- Created a short one page website for their Mediaworks Business (site hasn't been hosted yet)
 - Created a website for Kevin's Production which is all about kids and activities for kids (site hasn't been hosted).
 
 ### Charmboard Pvt. Ltd., Bangalore *(As a Front End Developer - Aug 2017 - Nov 2017)*
@@ -81,7 +81,7 @@ Apart from the period when I did freelance work, I worked for 4 years and 2 mont
 - Effectively using version control system `git`
 - Attempt to create desktop application using [`NWJS`](https://nwjs.io/) (an application for project managers to easily correct textual content in code)
 - Experimenting with node applications (for CSS
-fontface generation, markdown to name a few)
+fontface generation, markdown generation to name a few)
 
 ### Ipedis India, Chennai, India *(As Front End Developer - Feb 2015 to Aug 2015)*
 - Created websites using properly semantic `HTML`, `CSS` with `LESS` preprocessor
