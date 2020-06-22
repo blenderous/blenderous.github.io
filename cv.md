@@ -55,7 +55,7 @@ Completed MSc.(Tech.) Information Systems course in Goa, India (at the universit
 I have a total experience of 9 years.
 Apart from the period when I did freelance work, I worked for 4 years and 2 months.
 
-### Psychometry for Ahana Hospitals, Madurai *(Jan 2019 - March 2019)*
+### Psychometry for Ahana Hospitals, Madurai *(Jan 2020 - March 2020)*
 - Created an application to measure depression and other mental illness: [https://blenderous.github.io/ahana-psychometry/](https://blenderous.github.io/ahana-psychometry/)
 
 ### Netcom computers India Pvt. Ltd., Tirunelveli *(As a web developer - Jan 2018 to Dec 2019)*
