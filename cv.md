@@ -21,8 +21,17 @@ hurdles of miscommunication verbally whenever there is a lack of clarity.
 
 ## Skillset
 
-### MongoDB *(level: basic)*
-- Learned to use `MongoDB` `noSQL` database using the basic level certification course from the MongoDB website.
+### HTML5 *(level: advanced)*
+- Good at writing meaningful and semantic `HTML`
+- Like to use templates in concurrence with back-end frameworks (like `liquid` for `jekyll` and `blade` for `laravel`)
+- Interested in writing elementary `HTML` using mixins or angular templates
+- Very much intrigued by the philosophy of `polymer` and always looking to implement something similar in my code
+
+### CSS *(level: medium to advanced)*
+- Know how to write `media queries` in order have a proper layout and structure in tablet and mobile
+- Like to write a lot of `CSS` to create proper layouts for the page/application
+- Use a `LESS` or `SASS` preprocessor to make `CSS` more re-usable
+- Learning to make `CSS` more maintainable and well organized using naming conventions and custom libraries for the commonly used `CSS` utilities
 
 ### Javascript *(level: medium to advanced)*
 - Created a question and answer application using `ReactJS` and deployed it using Github Pages: [https://blenderous.github.io/questionnaire-app/](https://blenderous.github.io/questionnaire-app/). The source code of the application can be found here: [https://github.com/blenderous/questionnaire-app](https://github.com/blenderous/questionnaire-app).
@@ -34,17 +43,8 @@ hurdles of miscommunication verbally whenever there is a lack of clarity.
 - Familiar with creating simple command line tools using `ES5` in the `node.js` environment
 - Comfortable with vanilla `javascript` and `jQuery`
 
-### CSS *(level: medium to advanced)*
-- Know how to write `media queries` in order have a proper layout and structure in tablet and mobile
-- Like to write a lot of `CSS` to create proper layouts for the page/application
-- Use a `LESS` or `SASS` preprocessor to make `CSS` more re-usable
-- Learning to make `CSS` more maintainable and well organized using naming conventions and custom libraries for the commonly used `CSS` utilities
-
-### HTML *(level: advanced)*
-- Good at writing meaningful and semantic `HTML`
-- Like to use templates in concurrence with back-end frameworks (like `liquid` for `jekyll` and `blade` for `laravel`)
-- Interested in writing elementary `HTML` using mixins or angular templates
-- Very much intrigued by the philosophy of `polymer` and always looking to implement something similar in my code
+### MongoDB *(level: intermediate)*
+- Learned to use `MongoDB` `noSQL` database using the basic level certification course from the MongoDB website.
 
 ## Education
 
