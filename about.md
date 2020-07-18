@@ -38,4 +38,4 @@ My ideal working environment is where the doors for conversations are always ope
 
 I am usually very reserved. I prefer to communicate in writing a lot, but I proiritize getting though hurdles of mis-communication when there is a lack of clarity.
 
-Although I might not have good presentation skills although I usually feel comfortable talking about something that I am good at.
+Although I might not have good presentation skills I usually feel comfortable talking about something that I am good at.
