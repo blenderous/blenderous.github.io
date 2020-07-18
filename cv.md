@@ -55,12 +55,12 @@ Completed MSc.(Tech.) Information Systems course in Goa, India (at the universit
 I have a total experience of 9 years.
 Apart from the period when I did freelance work, I have worked for 4 years and 2 months.
 
-### Learning Django from Udemy (July 2020)
-Began learning Python from Udemy. Finished 102 lectures.
+### Learning `Django` from Udemy (July 2020)
+Began learning `Python` from Udemy. Finished 102 lectures.
 
 ### Freelance work on various projects (June 2020 - July 2020)
 - Home page for an astrology website: [https://blenderous.github.io/guru-astrology/](https://blenderous.github.io/guru-astrology/)
-- Creating an e-commerce website using Wordpress and WooCommerce (work in progress)
+- Creating an e-commerce website using `Wordpress` and `WooCommerce` (work in progress)
 
 ### Psychometry for Ahana Hospitals, Madurai *(Jan 2020 - March 2020)*
 - Created an application to measure depression and other mental illness: [https://blenderous.github.io/ahana-psychometry/](https://blenderous.github.io/ahana-psychometry/)
