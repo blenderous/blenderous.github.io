@@ -56,7 +56,7 @@ I have a total experience of 9 years.
 Apart from the period when I did freelance work, I have worked for 4 years and 2 months.
 
 ### Learning `Django` from Udemy (July 2020)
-Began learning `Python` from Udemy. Finished 102 lectures.
+Began learning `Python` from Udemy. Covered many lectures.
 
 ### Freelance work on various projects (June 2020 - July 2020)
 - Home page for an astrology website: [https://blenderous.github.io/guru-astrology/](https://blenderous.github.io/guru-astrology/)
