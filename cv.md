@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 ## About me
-I am a front-end developer who is creative and also delivers.
+Graduated from BITS, I am a front-end developer who is creative and also delivers.
 
 Working with front end technologies means, making
 interfaces for mobiles, tablets and desktop computers. A lot of effort goes
@@ -13,11 +13,9 @@ seen and interacted with on the screen.
 
 I have also learned to make applications using `ReactJS`.
 
-My ideal working environment is where the doors for conversations are
-always open and ideas are constantly exchanged.
+Constant learning gives an edge in technology is my belief, so I keep learning through multiple mediums and implementing at realtime hands-on.
 
-I prefer to communicate through writing a lot, but I prioritize getting though
-hurdles of miscommunication verbally whenever there is a lack of clarity.
+I prefer to communicate through writing, project planners and tools for a better productivity, clarity and thereby avoiding ambiguity. 
 
 ## Skillset
 
