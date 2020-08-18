@@ -32,6 +32,7 @@ I prefer to communicate through writing, project planners and tools for a better
 - Learning to make `CSS` more maintainable and well organized using naming conventions and custom libraries for the commonly used `CSS` utilities
 
 ### Javascript *(level: medium to advanced)*
+- Created a simple form with validation using `ReactJS` and `Formik`: [https://blenderous.github.io/form-with-validation/](https://blenderous.github.io/form-with-validation/). The source code of the application can be found here: [https://github.com/blenderous/form-with-validation](https://github.com/blenderous/form-with-validation).
 - Created a question and answer application using `ReactJS` and deployed it using Github Pages: [https://blenderous.github.io/questionnaire-app/](https://blenderous.github.io/questionnaire-app/). The source code of the application can be found here: [https://github.com/blenderous/questionnaire-app](https://github.com/blenderous/questionnaire-app).
 - Completed the lesson on `ReactJS`, from codecademy.
 - Created a web application using `NodeJS` and `ExpressJS` (back-end) and `jQuery`(front-end). For database, I have used `MongoDB`. Link to the application: [https://daily-checklist-app.herokuapp.com/](https://daily-checklist-app.herokuapp.com/).
@@ -53,10 +54,7 @@ Completed MSc.(Tech.) Information Systems course in Goa, India (at the universit
 I have a total experience of 9 years.
 Apart from the period when I did freelance work, I have worked for 4 years and 2 months.
 
-### Learning `Django` from Udemy (July 2020)
-Began learning `Python` from Udemy. Covered many lectures.
-
-### Freelance work on various projects (June 2020 - July 2020)
+### Freelance work on various projects (June 2020 - present)
 - Home page for an astrology website: [https://blenderous.github.io/guru-astrology/](https://blenderous.github.io/guru-astrology/)
 - Creating an e-commerce website using `Wordpress` and `WooCommerce` (work in progress)
 
