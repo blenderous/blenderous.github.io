@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 ## About me
-I am a front-end developer who is creative and also delivers.
+Graduated from BITS, I am a front-end developer who is creative and also delivers.
 
 Working with front end technologies means, making
 interfaces for mobiles, tablets and desktop computers. A lot of effort goes
@@ -13,18 +13,27 @@ seen and interacted with on the screen.
 
 I am also learning to make applications using `ReactJS`.
 
-My ideal working environment is where the doors for conversations are
-always open and ideas are constantly exchanged.
+Constant learning gives an edge in technology is my belief, so I keep learning through multiple mediums and implementing at realtime hands-on.
 
-I prefer to communicate through writing a lot, but I prioritize getting though
-hurdles of miscommunication verbally whenever there is a lack of clarity.
+I prefer to communicate through writing, project planners and tools for a better productivity, clarity and thereby avoiding ambiguity.
 
 ## Skillset
 
-### MongoDB *(level: basic)*
-- Learned to use `MongoDB` `noSQL` database using the basic level certification course from the MongoDB website.
+### HTML5 *(level: advanced)*
+- Good at writing meaningful and semantic `HTML`
+- Like to use templates in concurrence with back-end frameworks (like `liquid` for `jekyll` and `blade` for `laravel`)
+- Interested in writing elementary `HTML` using mixins or angular templates
+- Very much intrigued by the philosophy of `polymer` and always looking to implement something similar in my code
+
+### CSS *(level: medium to advanced)*
+- Know how to write `media queries` in order have a proper layout and structure in tablet and mobile
+- Like to write a lot of `CSS` to create proper layouts for the page/application
+- Use a `LESS` or `SASS` preprocessor to make `CSS` more re-usable
+- Learning to make `CSS` more maintainable and well organized using naming conventions and custom libraries for the commonly used `CSS` utilities
 
 ### Javascript *(level: medium to advanced)*
+- Created a simple todo app using `ReactJS` [https://codepen.io/blenderous/pen/rNeywyZ](https://codepen.io/blenderous/pen/rNeywyZ)
+- Created a simple form with validation using `ReactJS` and `Formik`: [https://blenderous.github.io/form-with-validation/](https://blenderous.github.io/form-with-validation/). The source code of the application can be found here: [https://github.com/blenderous/form-with-validation](https://github.com/blenderous/form-with-validation).
 - Created a question and answer application using `ReactJS` and deployed it using Github Pages: [https://blenderous.github.io/questionnaire-app/](https://blenderous.github.io/questionnaire-app/). The source code of the application can be found here: [https://github.com/blenderous/questionnaire-app](https://github.com/blenderous/questionnaire-app).
 - Completed the lesson on `ReactJS`, from codecademy.
 - Created a web application using `NodeJS` and `ExpressJS` (back-end) and `jQuery`(front-end). For database, I have used `MongoDB`. Link to the application: [https://daily-checklist-app.herokuapp.com/](https://daily-checklist-app.herokuapp.com/).
@@ -34,28 +43,26 @@ hurdles of miscommunication verbally whenever there is a lack of clarity.
 - Familiar with creating simple command line tools using `ES5` in the `node.js` environment
 - Comfortable with vanilla `javascript` and `jQuery`
 
-### CSS *(level: medium to advanced)*
-- Know how to write `media queries` in order have a proper layout and structure in tablet and mobile
-- Like to write a lot of `CSS` to create proper layouts for the page/application
-- Use a `LESS` or `SASS` preprocessor to make `CSS` more re-usable
-- Learning to make `CSS` more maintainable and well organized using naming conventions and custom libraries for the commonly used `CSS` utilities
-
-### HTML *(level: advanced)*
-- Good at writing meaningful and semantic `HTML`
-- Like to use templates in concurrence with back-end frameworks (like `liquid` for `jekyll` and `blade` for `laravel`)
-- Interested in writing elementary `HTML` using mixins or angular templates
-- Very much intrigued by the philosophy of `polymer` and always looking to implement something similar in my code
+### MongoDB *(level: intermediate)*
+- Learned to use `MongoDB` `noSQL` database using the basic level certification course from the MongoDB website.
 
 ## Education
 
-Completed Information Systems course in Goa, India (at the university, Birla Insitute of Technology and Science KK Birla, Goa campus).
+Completed MSc.(Tech.) Information Systems course in Goa, India (at the university, Birla Insitute of Technology and Science KK Birla, Goa campus).
 
 ## Experience
 
 I have a total experience of 9 years.
-Apart from the period when I did freelance work, I worked for 4 years and 2 months.
+Apart from the period when I did freelance work, I have worked for 4 years and 2 months.
 
-### Netcom computers India Pvt. Ltd., Tirunelveli *(As a web developer - Jan 2018 to March 2019)*
+### Freelance work on various projects (June 2020 - present)
+- Home page for an astrology website: [https://blenderous.github.io/guru-astrology/](https://blenderous.github.io/guru-astrology/)
+- Creating an e-commerce website using `Wordpress` and `WooCommerce` [https://balaemedic.com/](https://balaemedic.com/)(work in progress)
+
+### Psychometry for Ahana Hospitals, Madurai *(Jan 2020 - March 2020)*
+- Created an application to measure depression and other mental illness: [https://blenderous.github.io/ahana-psychometry/](https://blenderous.github.io/ahana-psychometry/)
+
+### Netcom computers India Pvt. Ltd., Tirunelveli *(As a web developer - Jan 2018 to Dec 2019)*
 - Enhanced their [main website](http://netcomcomputersindia.com).
 - Created a short one page website for their Mediaworks business (site hasn't been hosted)
 - Created a website for Kevin's Production which is about kids and activities for kids (site hasn't been hosted).
@@ -78,7 +85,7 @@ Apart from the period when I did freelance work, I worked for 4 years and 2 mont
 - Effectively using version control system `git`
 - Attempt to create desktop application using [`NWJS`](https://nwjs.io/) (an application for project managers to easily correct textual content in code)
 - Experimenting with node applications (for CSS
-fontface generation, markdown to name a few)
+fontface generation, markdown generation to name a few)
 
 ### Ipedis India, Chennai, India *(As Front End Developer - Feb 2015 to Aug 2015)*
 - Created websites using properly semantic `HTML`, `CSS` with `LESS` preprocessor
