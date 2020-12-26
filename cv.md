@@ -6,7 +6,7 @@ permalink: /cv/
 ## About me
 Graduated from BITS, I am a web developer who is creative and also delivers.
 
-I am particularly an expert in front-end development.
+I am particularly fond of front-end development.
 
 Working with front end technologies means, making
 interfaces for mobiles, tablets and desktop computers. A lot of effort goes
