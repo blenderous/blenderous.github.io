@@ -1,7 +1,7 @@
 /* fontface declarations */
 @import "fontface/open-sans";
 @import "fontface/journal-regular";
-@import "fontface/source-sans-pro";
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;0,600;1,400;1,600&display=swap');
 
 /* Apply special type for site title */
 a.site-title {
