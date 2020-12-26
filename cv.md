@@ -15,7 +15,7 @@ seen and interacted with on the screen.
 
 Sometimes, there is a necessity to make a website or an application without the help of a designer. In that case, I prefer to apply a suitable theme and adjust the look and feel of the website or application myself.
 
-I am also making applications using `ReactJS`.
+I also make web applications using `ReactJS`.
 
 Constant learning gives an edge in technology is my belief, so I keep learning through multiple mediums and implementing at realtime hands-on.
 
