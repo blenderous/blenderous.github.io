@@ -4,14 +4,18 @@ title: CV
 permalink: /cv/
 ---
 ## About me
-Graduated from BITS, I am a front-end developer who is creative and also delivers.
+Graduated from BITS, I am a web developer who is creative and also delivers.
+
+I am particularly an expert in front-end development.
 
 Working with front end technologies means, making
 interfaces for mobiles, tablets and desktop computers. A lot of effort goes
 into making the concept made by the designers into something that can be
 seen and interacted with on the screen.
 
-I am also learning to make applications using `ReactJS`.
+Sometimes, there is a necessity to make a website or an application without the help of a designer. In that case, I prefer to apply a suitable theme and adjust the look and feel of the website or application myself.
+
+I am also making applications using `ReactJS`.
 
 Constant learning gives an edge in technology is my belief, so I keep learning through multiple mediums and implementing at realtime hands-on.
 
@@ -33,11 +37,10 @@ I prefer to communicate through writing, project planners and tools for a better
 
 ### Javascript *(level: medium to advanced)*
 - Created a simple todo app using `ReactJS` [https://codepen.io/blenderous/pen/rNeywyZ](https://codepen.io/blenderous/pen/rNeywyZ)
-- Created a simple form with validation using `ReactJS` and `Formik`: [https://blenderous.github.io/form-with-validation/](https://blenderous.github.io/form-with-validation/). The source code of the application can be found here: [https://github.com/blenderous/form-with-validation](https://github.com/blenderous/form-with-validation).
-- Created a question and answer application using `ReactJS` and deployed it using Github Pages: [https://blenderous.github.io/questionnaire-app/](https://blenderous.github.io/questionnaire-app/). The source code of the application can be found here: [https://github.com/blenderous/questionnaire-app](https://github.com/blenderous/questionnaire-app).
+- Created a simple form with validation using `ReactJS` and `Formik`: [https://blenderous.github.io/form-with-validation/](https://blenderous.github.io/form-with-validation/).
+- Created a question and answer application using `ReactJS` [https://blenderous.github.io/questionnaire-app/](https://blenderous.github.io/questionnaire-app/).
 - Completed the lesson on `ReactJS`, from codecademy.
-- Created a web application using `NodeJS` and `ExpressJS` (back-end) and `jQuery`(front-end). For database, I have used `MongoDB`. Link to the application: [https://daily-checklist-app.herokuapp.com/](https://daily-checklist-app.herokuapp.com/).
-- Created a pokedex (an index of pokemons :) [https://blenderous.github.io/pokedex/](https://blenderous.github.io/pokedex/). It's source here [https://github.com/blenderous/pokdex](https://github.com/blenderous/pokedex).
+- Created a pokedex (an index of pokemons :) using `ReactJS` [https://blenderous.github.io/pokedex/](https://blenderous.github.io/pokedex/).
 - Learning to use ES6 and Babel.
 - Experienced in using `Angular js` version 1 to make DOM manipulations, interactive elements and to have modular front end code
 - Familiar with creating simple command line tools using `ES5` in the `node.js` environment
@@ -55,8 +58,7 @@ Completed MSc.(Tech.) Information Systems course in Goa, India (at the universit
 I have a total experience of 9 years.
 Apart from the period when I did freelance work, I have worked for 4 years and 2 months.
 
-### Freelance work on various projects (June 2020 - present)
-- Home page for an astrology website: [https://blenderous.github.io/guru-astrology/](https://blenderous.github.io/guru-astrology/)
+### Freelance work on various projects, Madurai (May 2020 - present)
 - Creating an e-commerce website using `Wordpress` and `WooCommerce` [https://balaemedic.com/](https://balaemedic.com/)(work in progress)
 
 ### Psychometry for Ahana Hospitals, Madurai *(Jan 2020 - March 2020)*
@@ -68,14 +70,14 @@ Apart from the period when I did freelance work, I have worked for 4 years and 2
 - Created a website for Kevin's Production which is about kids and activities for kids (site hasn't been hosted).
 
 ### Charmboard Pvt. Ltd., Bangalore *(As a Front End Developer - Aug 2017 - Nov 2017)*
-- Created a blog for the company, designed it on my own using `HTML` and `CSS`.
-- Created a corporate website, designed it as per requirement.
+- Created a blog for the company, designed it using `HTML` and `CSS`.
+- Created a corporate website, designed it using `HTML` and `CSS`.
 
 ### Freelance Developer, Chennai *(As web developer - Jan 2017 to Aug 2017)*
 - Built a website for the solar energy company called Dunamis.
 - Created a wordpress blog to write opinions about political issues.
 
-### Pink Art Ltd, Mauritius Islands *(As Lead Front End Developer - Sep 2015 to Nov 2016)*
+### Octopouce digital, Mauritius Islands *(As Lead Front End Developer - Sep 2015 to Nov 2016)*
 - Created websites using `Angular JS` version 1  (all the interactive elements of the website, animations and for displaying model data in views across the website)
 - Integrating `HTML` views within the backend framework and templating engine `blade`
 - Enhancing existing automated tasks (using `grunt` or `gulp`) and creating some new ones to have a better work­flow
@@ -87,11 +89,11 @@ Apart from the period when I did freelance work, I have worked for 4 years and 2
 - Experimenting with node applications (for CSS
 fontface generation, markdown generation to name a few)
 
-### Ipedis India, Chennai, India *(As Front End Developer - Feb 2015 to Aug 2015)*
+### Ipedis India, Chennai *(As Front End Developer - Feb 2015 to Aug 2015)*
 - Created websites using properly semantic `HTML`, `CSS` with `LESS` preprocessor
 - Learned `Angular JS` version 1 under the guidance of the CTO (Yanis Ghidouche)
 - Learned to work with task manager (`grunt`) and version control system (`git`)
-- Created challenging designs and layouts using `Bootstrap CSS` and media queries
+- Created challenging designs and layouts using `Bootstrap CSS` and `media queries`
 
 ### Freelance Developer, Pune, India *(As Graphic Designer and Web Developer - May 2012 to Dec 2014)*
 - Designed simple websites and interfaces using `Bootstrap`
@@ -102,7 +104,7 @@ fontface generation, markdown generation to name a few)
 ### DotAhead (now called ScreenRoot), Goa, India *(As Front End Developer - Jul 2011 to Apr 2012)*
 - Created static websites using `HTML`, `CSS` and `javascript`
 - Created some interactive elements using `jQuery` plugins (carousels for images, dialogues that take user input and send information via `ajax` and `HTML` forms with client side validation)
-- Endured the pain of developing compatibility for IE6
+- Went through the painstaking process of developing compatibility for IE6
 
 ### TransGraph, Hyderabad, India *(As an Intern - Jan 2011 to Jun 2011)*
 - Created `HTML` forms for internal applications
