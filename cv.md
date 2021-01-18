@@ -37,11 +37,11 @@ I prefer to communicate through writing, project planners and tools for a better
 ### Javascript *(level: medium to advanced)*
 - Created a simple todo app using `ReactJS` [https://codepen.io/blenderous/pen/rNeywyZ](https://codepen.io/blenderous/pen/rNeywyZ)
 - Created a simple form with validation using `ReactJS` and `Formik`: [https://blenderous.github.io/form-with-validation/](https://blenderous.github.io/form-with-validation/).
+- Created a pokedex (an index of pokemons :) using `ReactJS` [https://blenderous.github.io/pokedex/](https://blenderous.github.io/pokedex/).
 - Completed the lesson on `ReactJS`, from codecademy.
 - Completed the lesson on `React` and `Redux` from freeCodeCamp.
-- Created a pokedex (an index of pokemons :) using `ReactJS` [https://blenderous.github.io/pokedex/](https://blenderous.github.io/pokedex/).
 - Learning to use ES6 and Babel.
-- Was earlier using `Angular js` version 1 to make DOM manipulations, interactive elements and have modular front end code
+- Previously used `Angular js` version 1 to make DOM manipulations, interactive elements and have modular front end code (now using `ReactJS` to achieve the same)
 - Familiar with creating simple command line tools using `ES5` in the `node.js` environment
 - Comfortable with vanilla `javascript` and `jQuery`
 
