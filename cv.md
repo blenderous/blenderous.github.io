@@ -8,8 +8,7 @@ Graduated from BITS, I am a web developer who is creative and also delivers.
 
 I am particularly fond of front-end development.
 
-Working with front end technologies means, making
-interfaces for mobiles, tablets and desktop computers. A lot of effort goes
+Making interfaces for mobiles, tablets and desktop computers. A lot of effort goes
 into making the concept made by the designers into something that can be
 seen and interacted with on the screen.
 
@@ -38,11 +37,11 @@ I prefer to communicate through writing, project planners and tools for a better
 ### Javascript *(level: medium to advanced)*
 - Created a simple todo app using `ReactJS` [https://codepen.io/blenderous/pen/rNeywyZ](https://codepen.io/blenderous/pen/rNeywyZ)
 - Created a simple form with validation using `ReactJS` and `Formik`: [https://blenderous.github.io/form-with-validation/](https://blenderous.github.io/form-with-validation/).
-- Created a question and answer application using `ReactJS` [https://blenderous.github.io/questionnaire-app/](https://blenderous.github.io/questionnaire-app/).
 - Completed the lesson on `ReactJS`, from codecademy.
+- Completed the lesson on `React` and `Redux` from freeCodeCamp.
 - Created a pokedex (an index of pokemons :) using `ReactJS` [https://blenderous.github.io/pokedex/](https://blenderous.github.io/pokedex/).
 - Learning to use ES6 and Babel.
-- Experienced in using `Angular js` version 1 to make DOM manipulations, interactive elements and to have modular front end code
+- Was earlier using `Angular js` version 1 to make DOM manipulations, interactive elements and have modular front end code
 - Familiar with creating simple command line tools using `ES5` in the `node.js` environment
 - Comfortable with vanilla `javascript` and `jQuery`
 
@@ -55,19 +54,18 @@ Completed MSc.(Tech.) Information Systems course in Goa, India (at the universit
 
 ## Experience
 
-I have a total experience of 9 years.
-Apart from the period when I did freelance work, I have worked for 4 years and 2 months.
+I have worked in various organizations for 5 years and including the period when I did freelance work, I have a total experience of 8 years and 9 months.
 
-### Freelance work on various projects, Madurai (May 2020 - present)
-- Creating an e-commerce website using `Wordpress` and `WooCommerce` [https://balaemedic.com/](https://balaemedic.com/)(work in progress)
+### Freelance work on various projects, Madurai *(May 2020 - October 2020)*
+- Creating an e-commerce website using `Wordpress` and `WooCommerce` [https://balaemedic.com/](https://balaemedic.com/)
 
 ### Psychometry for Ahana Hospitals, Madurai *(Jan 2020 - March 2020)*
 - Created an application to measure depression and other mental illness: [https://blenderous.github.io/ahana-psychometry/](https://blenderous.github.io/ahana-psychometry/)
 
 ### Netcom computers India Pvt. Ltd., Tirunelveli *(As a web developer - Jan 2018 to Dec 2019)*
 - Enhanced their [main website](http://netcomcomputersindia.com).
-- Created a short one page website for their Mediaworks business (site hasn't been hosted)
-- Created a website for Kevin's Production which is about kids and activities for kids (site hasn't been hosted).
+- Created a short one page website for their Mediaworks business.
+- Created a website for Kevin's Production which is about kids and activities for kids.
 
 ### Charmboard Pvt. Ltd., Bangalore *(As a Front End Developer - Aug 2017 - Nov 2017)*
 - Created a blog for the company, designed it using `HTML` and `CSS`.
