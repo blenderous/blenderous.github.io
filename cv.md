@@ -3,7 +3,7 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-## About me
+<!-- ## About me
 Graduated from BITS, I am a web developer who is creative and also delivers.
 
 I am particularly fond of front-end development.
@@ -18,7 +18,7 @@ I also make web applications using `ReactJS`.
 
 Constant learning gives an edge in technology is my belief, so I keep learning through multiple mediums and implementing at realtime hands-on.
 
-I prefer to communicate through writing, project planners and tools for a better productivity, clarity and thereby avoiding ambiguity.
+I prefer to communicate through writing, project planners and tools for a better productivity, clarity and thereby avoiding ambiguity. -->
 
 ## Skillset
 
