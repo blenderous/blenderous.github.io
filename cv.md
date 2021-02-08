@@ -22,8 +22,6 @@ I prefer to communicate through writing, project planners and tools for a better
 
 ### HTML5 *(level: advanced)*
 - Good at writing meaningful and semantic `HTML`
-- Like to use templates in concurrence with back-end frameworks (like `liquid` for `jekyll` and `blade` for `laravel`)
-- Interested in writing elementary `HTML` using mixins or angular templates
 - Very much intrigued by the philosophy of `polymer` and always looking to implement something similar in my code
 
 ### CSS *(level: medium to advanced)*
