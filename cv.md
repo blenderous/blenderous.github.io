@@ -55,7 +55,7 @@ Completed MSc.(Tech.) Information Systems course in Goa, India (at the universit
 I have worked in various organizations for 5 years and including the period when I did freelance work, I have a total experience of 8 years and 9 months.
 
 ### Freelance work on various projects, Madurai *(May 2020 - October 2020)*
-- Creating an e-commerce website using `Wordpress` and `WooCommerce` [https://balaemedic.com/](https://balaemedic.com/)
+- Created an e-commerce website using `Wordpress` and `WooCommerce` [https://balaemedic.com/](https://balaemedic.com/)
 
 ### Psychometry for Ahana Hospitals, Madurai *(Jan 2020 - March 2020)*
 - Created an application to measure depression and other mental illness: [https://blenderous.github.io/ahana-psychometry/](https://blenderous.github.io/ahana-psychometry/)
