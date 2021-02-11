@@ -33,7 +33,7 @@ I prefer to communicate through writing, project planners and tools for a better
 - Learning to make `CSS` more maintainable and well organized using naming conventions and custom libraries for the commonly used `CSS` utilities
 
 ### Javascript *(level: medium to advanced)*
-- Created a simple todo app using `ReactJS` [https://codepen.io/blenderous/pen/rNWxNjp?editors=1011](https://codepen.io/blenderous/pen/rNWxNjp?editors=1011)
+- Created a todo app using `ReactJS` and `Redux` [https://codesandbox.io/s/fervent-hugle-38l4d](https://codesandbox.io/s/fervent-hugle-38l4d)
 - Created a simple form with validation using `ReactJS` and `Formik`: [https://blenderous.github.io/form-with-validation/](https://blenderous.github.io/form-with-validation/).
 - Created a pokedex (an index of pokemons :) using `ReactJS` [https://blenderous.github.io/pokedex/](https://blenderous.github.io/pokedex/).
 - Completed the lesson on `ReactJS`, from codecademy.
