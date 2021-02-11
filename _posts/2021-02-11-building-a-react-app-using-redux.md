@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Building a React Redux app"
+description: "General information on how to create a `React Redux` app"
+date: 2021-02-11
+category: development
+comments: true
+---
 ## Building a `React Redux` app
 There is a simple template of a `React Redux` app available on the `Redux` documentation website.
 
