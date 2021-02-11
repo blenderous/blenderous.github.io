@@ -14,6 +14,8 @@ seen and interacted with on the screen.
 
 Sometimes, there is a necessity to make a website or an application without the help of a designer. In that case, I prefer to apply a suitable theme and adjust the look and feel of the website or application myself.
 
+I have also learnt to make applications using `ReactJS`.
+
 Constant learning gives an edge in technology is my belief, so I keep learning through multiple mediums and implementing at realtime hands-on.
 
 I prefer to communicate through writing, project planners and tools for a better productivity, clarity and thereby avoiding ambiguity.
@@ -31,7 +33,7 @@ I prefer to communicate through writing, project planners and tools for a better
 - Learning to make `CSS` more maintainable and well organized using naming conventions and custom libraries for the commonly used `CSS` utilities
 
 ### Javascript *(level: medium to advanced)*
-- Created a simple todo app using `ReactJS` [https://codepen.io/blenderous/pen/rNeywyZ](https://codepen.io/blenderous/pen/rNeywyZ)
+- Created a simple todo app using `ReactJS` [https://codepen.io/blenderous/pen/rNWxNjp?editors=1011](https://codepen.io/blenderous/pen/rNWxNjp?editors=1011)
 - Created a simple form with validation using `ReactJS` and `Formik`: [https://blenderous.github.io/form-with-validation/](https://blenderous.github.io/form-with-validation/).
 - Created a pokedex (an index of pokemons :) using `ReactJS` [https://blenderous.github.io/pokedex/](https://blenderous.github.io/pokedex/).
 - Completed the lesson on `ReactJS`, from codecademy.
