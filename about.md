@@ -24,7 +24,7 @@ People are afraid of code or to talk know about technologies.
 
 I want to be part of building a programming environment that would be really easy to get familiarized to. It would be something that could be used by creatives, developers and executives alike, each in their own way.
 
-Each one of these would get interact with their machines in their own terms and in their own universe of words.
+Each one of these would get to interact with their machines in their own terms and in their own universe of words.
 
 It's a far away dream, but we can get there :)
 
