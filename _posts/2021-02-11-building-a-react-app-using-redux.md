@@ -24,4 +24,4 @@ Make sure you use `git add -A` and `git commit -m "your commit message here"` ev
 After you have done developing your app, you can apply the following steps to publish your code into a code sandbox.
 
 ### Step 1: Create a new repository
-
+![Screenshot of creating a new repository](/blog-assets/images/create-new-git-repository.png)
