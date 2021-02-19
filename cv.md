@@ -18,7 +18,7 @@ I have also learned to make applications using `ReactJS`.
 
 Constant learning gives an edge in technology is my belief, so I keep learning through multiple mediums and implementing at realtime hands-on.
 
-I prefer to communicate through writing, project planners and tools for a better productivity, clarity and thereby avoiding ambiguity.
+I also write a [tech blog](http://blenderous.github.io/) about my learnings.
 
 ## Skillset
 
@@ -35,7 +35,7 @@ I prefer to communicate through writing, project planners and tools for a better
 ### Javascript *(level: medium to advanced)*
 - Created a todo app using `ReactJS` and `Redux` [https://codesandbox.io/s/fervent-hugle-38l4d](https://codesandbox.io/s/fervent-hugle-38l4d)
 - Created a simple form with validation using `ReactJS` and `Formik`: [https://blenderous.github.io/form-with-validation/](https://blenderous.github.io/form-with-validation/).
-- Created a pokedex (an index of pokemons :) using `ReactJS` [https://blenderous.github.io/pokedex/](https://blenderous.github.io/pokedex/).
+- Created a tic-tac-toe game using `React hooks` [https://codesandbox.io/s/distracted-rain-cqw5z](https://codesandbox.io/s/distracted-rain-cqw5z).
 - Completed the lesson on `ReactJS`, from codecademy.
 - Completed the lesson on `React` and `Redux` from freeCodeCamp.
 - Learning to use ES6 and Babel.
