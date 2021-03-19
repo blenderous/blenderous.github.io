@@ -57,8 +57,8 @@ I have worked in various organizations for 5 years and including the period when
 ### Freelance work on various projects, Madurai *(May 2020 - October 2020)*
 - Created an e-commerce website using `Wordpress` and `WooCommerce` [https://balaemedic.com/](https://balaemedic.com/)
 
-### Psychometry for Ahana Hospitals, Madurai *(Jan 2020 - March 2020)*
-- Created an application to measure depression and other mental illness: [https://blenderous.github.io/ahana-psychometry/](https://blenderous.github.io/ahana-psychometry/)
+### Freelance project for Ahana Hospitals, Madurai *(Jan 2020 - March 2020)*
+- Created a application to measure depression and other mental illnesses: [https://blenderous.github.io/ahana-psychometry/](https://blenderous.github.io/ahana-psychometry/)
 
 ### Netcom computers India Pvt. Ltd., Tirunelveli *(As a web developer - Jan 2018 to Dec 2019)*
 - Enhanced their [main website](http://netcomcomputersindia.com).
