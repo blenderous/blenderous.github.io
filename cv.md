@@ -32,18 +32,17 @@ I also write a [tech blog](http://blenderous.github.io/) about my learnings.
 - Use a `LESS` or `SASS` preprocessor to make `CSS` more re-usable
 - Learning to make `CSS` more maintainable and well organized using naming conventions and custom libraries for the commonly used `CSS` utilities
 
-### Javascript *(level: medium to advanced)*
+### Javascript *(level: medium)*
 - Created a todo app using `ReactJS` and `Redux` [https://codesandbox.io/s/fervent-hugle-38l4d](https://codesandbox.io/s/fervent-hugle-38l4d)
 - Created a simple form with validation using `ReactJS` and `Formik`: [https://blenderous.github.io/form-with-validation/](https://blenderous.github.io/form-with-validation/).
 - Created a tic-tac-toe game using `React hooks` [https://codesandbox.io/s/distracted-rain-cqw5z](https://codesandbox.io/s/distracted-rain-cqw5z).
-- Completed the lesson on `ReactJS`, from codecademy.
 - Completed the lesson on `React` and `Redux` from freeCodeCamp.
 - Learning to use ES6 and Babel.
 - Previously used `Angular js` version 1 to make DOM manipulations, interactive elements and have modular front end code (now using `ReactJS` to achieve the same)
 - Familiar with creating simple command line tools using `ES5` in the `node.js` environment
 - Comfortable with vanilla `javascript` and `jQuery`
 
-### MongoDB *(level: intermediate)*
+### MongoDB *(level: beginner)*
 - Learned to use `MongoDB` `noSQL` database using the basic level certification course from the MongoDB website.
 
 ## Education
@@ -52,9 +51,13 @@ Completed MSc.(Tech.) Information Systems course in Goa, India (at the universit
 
 ## Experience
 
-I have worked in various organizations for 5 years and including the period when I did freelance work, I have a total experience of 8 years and 9 months.
+I have worked in various organizations for 5 years and including the period when I did freelance work, I have a total experience of 9 years.
 
-### Freelance work on various projects, Madurai *(May 2020 - October 2020)*
+### Infosys India Pvt Ltd, working from Madurai *(June 2021 - present)*
+- Worked on creating a functionality for a website using `jQuery`
+- Created a couple of components using `React JS` and `Typescript`.
+
+### Freelance work on various projects, Madurai *(May 2020 - May 2021)*
 - Created an e-commerce website using `Wordpress` and `WooCommerce` [https://balaemedic.com/](https://balaemedic.com/)
 
 ### Freelance project for Ahana Hospitals, Madurai *(Jan 2020 - March 2020)*
