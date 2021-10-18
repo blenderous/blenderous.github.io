@@ -53,7 +53,7 @@ Completed MSc.(Tech.) Information Systems course in Goa, India (at the universit
 
 I have worked in various organizations for 5 years and including the period when I did freelance work, I have a total experience of 9 years.
 
-### Infosys India Pvt Ltd, working from Madurai *(June 2021 - present)*
+### Infosys Limited, working from Madurai *(June 2021 - present)*
 - Worked on creating a functionality for a website using `jQuery`
 - Created a couple of components using `React JS` and `Typescript`.
 
