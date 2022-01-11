@@ -56,8 +56,9 @@ I have worked in various organizations for 5 years and including the period when
 ### Infosys Limited, working from Madurai *(June 2021 - present)*
 - Worked on creating a functionality for a website using `jQuery`
 - Created a couple of components using `React JS` and `Typescript`.
+- Worked on a project that uses `React JS`, `Typescript` and `Redux`
 
-### Freelance work on various projects, Madurai *(May 2020 - May 2021)*
+### Freelance work on various projects, Madurai *(April 2020 - May 2021)*
 - Created an e-commerce website using `Wordpress` and `WooCommerce` [https://balaemedic.com/](https://balaemedic.com/)
 
 ### Freelance project for Ahana Hospitals, Madurai *(Jan 2020 - March 2020)*
