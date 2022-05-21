@@ -92,7 +92,7 @@ fontface generation, markdown generation to name a few)
 - Learned to work with task manager (`grunt`) and version control system (`git`)
 - Created challenging designs and layouts using `Bootstrap CSS` and `media queries`
 
-### Worked for Clique, worked as freelance Developer, Pune, India *(As Graphic Designer and Web Developer - May 2012 to Dec 2014)*
+### Worked for Clique and worked as freelance Developer, Pune, India *(As Web Developer - May 2012 to Dec 2014)*
 - Designed simple websites and interfaces using `Bootstrap`
 - Created dynamic elements of a websites using `javascript` APIs (geolocation, custom interaction with youtube videos, maps etc)
 - Created application with `HTML` templates using `mustache JS`
