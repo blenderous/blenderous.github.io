@@ -30,9 +30,7 @@ I also write a [tech blog](http://blenderous.github.io/) about my learnings.
 - Learning to make `CSS` more maintainable and well organized using naming conventions and custom libraries for the commonly used `CSS` utilities
 
 ### Javascript *(level: medium)*
-- Created a todo app using `ReactJS` and `Redux` [https://codesandbox.io/s/fervent-hugle-38l4d](https://codesandbox.io/s/fervent-hugle-38l4d)
-- Created a simple form with validation using `ReactJS` and `Formik`: [https://blenderous.github.io/form-with-validation/](https://blenderous.github.io/form-with-validation/).
-- Created a tic-tac-toe game using `React hooks` [https://codesandbox.io/s/distracted-rain-cqw5z](https://codesandbox.io/s/distracted-rain-cqw5z).
+- Created single page applications using `React JS`
 - Completed the lesson on `React` and `Redux` from freeCodeCamp.
 - Learning to use ES6 and Babel.
 - Previously used `Angular js` version 1 to make DOM manipulations, interactive elements and have modular front end code (now using `ReactJS` to achieve the same)
@@ -48,18 +46,16 @@ Completed MSc.(Tech.) Information Systems course in Goa, India (at the universit
 
 ## Experience
 
-I have worked in various organizations for 5 years and including the period when I did freelance work, I have a total experience of 9 years.
+I have worked in various organizations for more than 6 years and including the period when I did freelance work, I have a total experience of about 10 years.
 
 ### Infosys Limited, working from Madurai *(June 2021 - present)*
 - Worked on creating a functionality for a website using `jQuery`
 - Created a couple of components using `React JS` and `Typescript`.
 - Worked on a project that uses `React JS`, `Typescript` and `Redux`
 
-### Freelance work on various projects, Madurai *(April 2020 - May 2021)*
+### Freelance work on various projects, Madurai *(Jan 2020 - May 2021)*
 - Created an e-commerce website using `Wordpress` and `WooCommerce` [https://balaemedic.com/](https://balaemedic.com/)
-
-### Freelance project for Ahana Hospitals, Madurai *(Jan 2020 - March 2020)*
-- Created a application to measure depression and other mental illnesses: [https://blenderous.github.io/ahana-psychometry/](https://blenderous.github.io/ahana-psychometry/)
+- Created an application to measure depression and other mental illnesses: [https://blenderous.github.io/ahana-psychometry/](https://blenderous.github.io/ahana-psychometry/)
 
 ### Netcom computers India Pvt. Ltd., Tirunelveli *(As a web developer - Jan 2018 to Dec 2019)*
 - Enhanced their [main website](http://netcomcomputersindia.com).
@@ -92,7 +88,7 @@ fontface generation, markdown generation to name a few)
 - Learned to work with task manager (`grunt`) and version control system (`git`)
 - Created challenging designs and layouts using `Bootstrap CSS` and `media queries`
 
-### Worked for Clique and worked as freelance Developer, Pune, India *(As Web Developer - May 2012 to Dec 2014)*
+### Worked for Clique as a Front-End developer and worked as freelance Developer, Pune, India *(May 2012 to Dec 2014)*
 - Designed simple websites and interfaces using `Bootstrap`
 - Created dynamic elements of a websites using `javascript` APIs (geolocation, custom interaction with youtube videos, maps etc)
 - Created application with `HTML` templates using `mustache JS`
