@@ -10,8 +10,8 @@ title: Harish Veerasekaran
 email: hponenonly@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   My name is harish.
-  Love to write code, especially javascript, SASS and meaningful HTML.
-  I like the Node environment, Atom text editor and GIT source control.
+  Love to write code, especially javascript, CSS3 and meaningful HTML.
+  I like the Node environment, Visual studio text editor and GIT source control.
   While not writing code, I am mostly reading a book.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blenderous.github.io" # the base hostname & protocol for your site

@@ -70,7 +70,7 @@ I have worked in various organizations for more than 6 years and including the p
 - Built a website for the solar energy company called Dunamis.
 - Created a wordpress blog to write opinions about political issues.
 
-### Octopouce digital, Mauritius Islands *(As Lead Front End Developer - Sep 2015 to Nov 2016)*
+### Octopouce digital (Under Pink Art Ltd.), Mauritius Islands *(As Lead Front End Developer - Sep 2015 to Nov 2016)*
 - Created websites using `Angular JS` version 1  (all the interactive elements of the website, animations and for displaying model data in views across the website)
 - Integrating `HTML` views within the backend framework and templating engine `blade`
 - Enhancing existing automated tasks (using `grunt` or `gulp`) and creating some new ones to have a better work­flow
@@ -88,7 +88,7 @@ fontface generation, markdown generation to name a few)
 - Learned to work with task manager (`grunt`) and version control system (`git`)
 - Created challenging designs and layouts using `Bootstrap CSS` and `media queries`
 
-### Worked for Clique as a Front-End developer and worked as freelance Developer, Pune, India *(May 2012 to Dec 2014)*
+### Freelance Developer, Pune, India *(May 2012 to Dec 2014)*
 - Designed simple websites and interfaces using `Bootstrap`
 - Created dynamic elements of a websites using `javascript` APIs (geolocation, custom interaction with youtube videos, maps etc)
 - Created application with `HTML` templates using `mustache JS`
