@@ -15,7 +15,7 @@ I have also learned to make applications using `ReactJS`.
 
 Constant learning gives an edge in technology is my belief, so I keep learning through multiple mediums and implementing at realtime hands-on.
 
-I also write a [tech blog](http://blenderous.github.io/) about my learnings.
+I also write a [tech blog](https://blenderous.github.io/) about my learnings.
 
 ## Skillset
 
