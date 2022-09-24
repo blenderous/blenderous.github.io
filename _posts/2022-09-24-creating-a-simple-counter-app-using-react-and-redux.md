@@ -30,9 +30,9 @@ export const selectCount = (state) => state.counter.count;
 export default counterSlice.reducer;
 ```
 
-In the `features/counter/Counter.js` file, we import `useSelector` and `useDispatch` from the `react-redux` package. We use the `useSelector` hook to retrieve the `selectCount` variable from `./counterSlice` and the `useDispatch` hook to dispatch the `changeValueBy` action from `./counterSlice`.
+In the `features/counter/Counter.js` file, we import the `useSelector` and `useDispatch` hooks from the `react-redux` package. We use the `useSelector` hook to retrieve the `selectCount` variable from `./counterSlice` and the `useDispatch` hook to dispatch the `changeValueBy` action.
 
-```javascript
+```jsx
 import React from "react";
 import { useSelector, useDispatch } from "react-redux";
 import { changeValueBy, selectCount } from "./counterSlice";
@@ -85,7 +85,7 @@ export default configureStore({
   }
 });
 ```
-In the `index.js` file, import the store from `./app/store` and `Provider` from `react-redux` and write the code to render the application like so:
+In the `index.js` file, import the store from `./app/store` and import `Provider` from `react-redux` and write the code to render the application like so:
 
 ```javascript
 import React from "react";
