@@ -53,7 +53,7 @@ export function Counter() {
 
 Place the `<Counter/>` component in `App.js`.
 
-```javascript
+```jsx
 import React from "react";
 import logo from "./logo.svg";
 import { Counter } from "./features/counter/Counter";
@@ -87,7 +87,7 @@ export default configureStore({
 ```
 In the `index.js` file, import the store from `./app/store` and import `Provider` from `react-redux` and write the code to render the application like so:
 
-```javascript
+```jsx
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
