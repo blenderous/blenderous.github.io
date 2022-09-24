@@ -15,7 +15,7 @@ Let's see how this can be done.
 Suppose we have a `class` component in `React` named `PokeList`.
 We want to fetch the `pokedex.json` file inside this component.
 So, in the `componentDidMount` life-cycle method, we can add the following:
-```
+```javascript
 componentDidMount() {
     fetch('https://blenderous.github.io/blog-assets/json/pokedex.json')
     .then( response => {
