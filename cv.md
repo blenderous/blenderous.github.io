@@ -48,10 +48,11 @@ Completed MSc.(Tech.) Information Systems course in Goa, India (at the universit
 
 I have worked in various organizations for more than 6 years and including the period when I did freelance work, I have a total experience of about 10 years.
 
-### Infosys Limited, working from Madurai *(June 2021 - present)*
+### Infosys Limited, working from Madurai *(June 2021 - August 2022)*
 - Worked on creating a functionality for a website using `jQuery`
 - Created a couple of components using `React JS` and `Typescript`.
-- Worked on a project that uses `React JS`, `Typescript` and `Redux`
+- Worked on a project using `React JS`, `Typescript` and `Redux`
+- Worked on a project that uses `jQuery` and `SQL queries`.
 
 ### Freelance work on various projects, Madurai *(Jan 2020 - May 2021)*
 - Created an e-commerce website using `Wordpress` and `WooCommerce` [https://balaemedic.com/](https://balaemedic.com/)
