@@ -46,7 +46,7 @@ Completed MSc.(Tech.) Information Systems course in Goa, India (at the universit
 
 ## Experience
 
-I have worked in various organizations for more than 6 years and including the period when I did freelance work, I have a total experience of about 10 years.
+I have worked in various organizations for 5 years, excluding the period when I did freelance work.
 
 ### Infosys Limited, working from Madurai *(June 2021 - August 2022)*
 - Worked on creating a functionality for a website using `jQuery`
