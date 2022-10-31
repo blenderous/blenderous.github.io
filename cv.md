@@ -4,12 +4,10 @@ title: CV
 permalink: /cv/
 ---
 ## About me
-Graduated from BITS, I am a web developer who is focused on front-end-development.
+Graduated from BITS, I am a web developer who is focused on Front End development.
 
 Making interfaces for mobiles, tablets and desktop computers is my thing. I make the transformation of the concept made by the designers into something that can be
 seen and interacted with on the screen.
-
-Sometimes, there is a necessity to make a website or an application without the help of a designer. In that case, I prefer to apply a suitable theme and adjust the look and feel of the website or application myself.
 
 I have also learned to make applications using `ReactJS`.
 
@@ -34,8 +32,8 @@ I also write a [tech blog](https://blenderous.github.io/) about my learnings.
 - Completed the lesson on `React` and `Redux` from freeCodeCamp.
 - Learning to use ES6 and Babel.
 - Previously used `Angular js` version 1 to make DOM manipulations, interactive elements and have modular front end code (now using `ReactJS` to achieve the same)
-- Familiar with creating simple command line tools using `ES5` in the `node.js` environment
-- Comfortable with vanilla `javascript` and `jQuery`
+- Familiar with creating simple command line tools using `Javascript` in the `node.js` environment
+- Comfortable with vanilla `Javascript` and `jQuery`
 
 ### MongoDB *(level: beginner)*
 - Learned to use `MongoDB` `noSQL` database using the basic level certification course from the MongoDB website.
