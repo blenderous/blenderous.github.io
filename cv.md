@@ -61,13 +61,11 @@ I have worked in various organizations for 5 years, excluding the period when I 
 - Created a short one page website for their Mediaworks business.
 - Created a website for Kevin's Production which is about kids and activities for kids.
 
-### Charmboard Pvt. Ltd., Bangalore *(As a Front End Developer - Aug 2017 - Nov 2017)*
-- Created a blog for the company, designed it using `HTML` and `CSS`.
-- Created a corporate website, designed it using `HTML` and `CSS`.
-
-### Freelance Developer, Chennai *(As web developer - Jan 2017 to Aug 2017)*
-- Built a website for the solar energy company called Dunamis.
+### Freelance Developer, Chennai *(As web developer - Jan 2017 to Dec 2017)*
+- Built a website for the solar energy company called Dunamis, designed it using `HTML` and `CSS`.
 - Created a wordpress blog to write opinions about political issues.
+- Created a blog for the company Charmboard, designed it using `HTML` and `CSS`.
+- Created a corporate website for the company Charmboard, designed it using `HTML` and `CSS`.
 
 ### Octopouce digital (Under Pink Art Ltd.), Mauritius Islands *(As Lead Front End Developer - Sep 2015 to Nov 2016)*
 - Created websites using `Angular JS` version 1  (all the interactive elements of the website, animations and for displaying model data in views across the website)
