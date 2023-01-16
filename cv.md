@@ -46,22 +46,22 @@ Completed MSc.(Tech.) Information Systems course in Goa, India (at the universit
 
 I have worked in various organizations for 5 years, excluding the period when I did freelance work.
 
-### Infosys Limited, working from Madurai *(June 2021 - August 2022)*
+### Infosys Limited, was working from Madurai, India *(June 2021 - August 2022)*
 - Worked on creating a functionality for a website using `jQuery`
-- Created a couple of components using `React JS` and `Typescript`.
-- Worked on a project using `React JS`, `Typescript` and `Redux`
-- Worked on a project that uses `jQuery` and `SQL queries`.
+- Created a component using `React JS` and `Typescript` (It was a calendar component where the user can select a range of dates and can also move forward or backward by a week)
+- Worked on a project using `React JS`, `Typescript` and `Redux` (Displaying offers in products shown on a page that belonged to a vendor)
+- Worked on a project that uses `jQuery` and `SQL queries`
 
-### Freelance work on various projects, Madurai *(Jan 2020 - May 2021)*
-- Created an e-commerce website using `Wordpress` and `WooCommerce` [https://balaemedic.com/](https://balaemedic.com/)
+### Freelance work on various projects, Madurai, India *(Jan 2020 - May 2021)*
+- Created an e-commerce website using `Wordpress` and `WooCommerce`
 - Created an application using `React JS` to measure depression and other mental illnesses: [https://blenderous.github.io/ahana-psychometry/](https://blenderous.github.io/ahana-psychometry/)
 
-### Netcom computers India Pvt. Ltd., Tirunelveli *(As a web developer - Jan 2018 to Dec 2019)*
-- Enhanced their [main website](http://netcomcomputersindia.com).
+### Netcom computers India Pvt. Ltd., Tirunelveli, India *(As a web developer - Jan 2018 to Dec 2019)*
+- Enhanced their main website.
 - Created a short one page website for their Mediaworks business.
 - Created a website for Kevin's Production which is about kids and activities for kids.
 
-### Freelance Developer, Chennai *(As web developer - Jan 2017 to Dec 2017)*
+### Freelance Developer, Chennai, India *(As web developer - Jan 2017 to Dec 2017)*
 - Built a website for the solar energy company called Dunamis, designed it using `HTML` and `CSS`.
 - Created a wordpress blog to write opinions about political issues.
 - Created a blog for the company Charmboard, designed it using `HTML` and `CSS`.
@@ -79,7 +79,7 @@ I have worked in various organizations for 5 years, excluding the period when I 
 - Experimenting with node applications (for CSS
 fontface generation, markdown generation to name a few)
 
-### Ipedis India, Chennai *(As Front End Developer - Feb 2015 to Aug 2015)*
+### Ipedis India, Chennai, India *(As Front End Developer - Feb 2015 to Aug 2015)*
 - Created websites using properly semantic `HTML`, `CSS` with `LESS` preprocessor
 - Learned `Angular JS` version 1 under the guidance of the CTO (Yanis Ghidouche)
 - Learned to work with task manager (`grunt`) and version control system (`git`)
@@ -91,7 +91,7 @@ fontface generation, markdown generation to name a few)
 - Created application with `HTML` templates using `mustache JS`
 - Dabbled with a little bit of `PHP` (for storing user data from forms, using php mailer to send confirmation e-mail, using of grocery CRUD for backend admin interface)
 
-### DotAhead (now called ScreenRoot), Goa, India *(As Front End Developer - Jul 2011 to Apr 2012)*
+### DotAhead (now called ScreenRoot), Goa, India *(As Design Specialist - Jul 2011 to Apr 2012)*
 - Created static websites using `HTML`, `CSS` and `javascript`
 - Created some interactive elements using `jQuery` plugins (carousels for images, dialogues that take user input and send information via `ajax` and `HTML` forms with client side validation)
 - Went through the painstaking process of developing compatibility for IE6
