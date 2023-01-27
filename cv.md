@@ -58,7 +58,7 @@ I have worked in various organizations for 5 years, excluding the period when I 
 - Created an e-commerce website using `Wordpress` and `WooCommerce`
 - Created an application using `React JS` to measure depression and other mental illnesses: [https://blenderous.github.io/ahana-psychometry/](https://blenderous.github.io/ahana-psychometry/)
 
-### Netcom computers India Pvt. Ltd., Tirunelveli, India *(As a web developer - Jan 2018 to Dec 2019)*
+### Netcom computers India Pvt. Ltd., Tirunelveli, India *(As a web developer - Jan 2018 to March 2019)*
 - Enhanced their main website.
 - Created a short one page website for their Mediaworks business.
 - Created a website for Kevin's Production which is about kids and activities for kids.
