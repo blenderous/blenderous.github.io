@@ -48,7 +48,7 @@ I have worked in various organizations for 5 years, excluding the period when I 
 
 ### Infosys Limited, was working from Madurai, India *(June 2021 - August 2022)*
 - Worked on creating a functionality for a website using `jQuery`
-- Created a component using `React JS` and `Typescript` (It was a calendar component where the user can select a range of dates and can also move forward or backward by a week)
+- Created a component using `React JS` and `Typescript` (It was a calendar component where the user can select a range of dates and can also move forward or backward by a week). Also wrote unit test cases for the component using `Jest` and `Enzyme`
 - Worked on a project using `React JS`, `Typescript` and `Redux` (Displaying offers in products shown on a page that belonged to a vendor)
 - Worked on a project that uses `jQuery` and `SQL queries`
 
