@@ -54,22 +54,22 @@ I have worked in various organizations for 5 years, excluding the period when I 
 - Worked on a project using `React JS`, `Typescript` and `Redux` (Displaying offers in products shown on a page that belonged to a vendor)
 - Worked on a project that uses `jQuery` and `SQL queries`
 
-### Freelance work on various projects, Madurai, India *(Jan 2020 - May 2021)*
+### Freelance work on various projects, Madurai, India *(January 2020 - May 2021)*
 - Created an e-commerce website using `Wordpress` and `WooCommerce`
 - Created an application using `React JS` to measure depression and other mental illnesses: [https://blenderous.github.io/ahana-psychometry/](https://blenderous.github.io/ahana-psychometry/)
 
-### Netcom computers India Pvt. Ltd., Tirunelveli, India *(As a web developer - Jan 2018 to March 2019)*
+### Netcom computers India Pvt. Ltd., Tirunelveli, India *(As a web developer - January 2018 to March 2019)*
 - Enhanced their main website.
 - Created a short one page website for their Mediaworks business.
 - Created a website for Kevin's Production which is about kids and activities for kids.
 
-### Freelance Developer, Chennai, India *(As web developer - Jan 2017 to Dec 2017)*
+### Freelance Developer, Chennai, India *(As web developer - January 2017 to December 2017)*
 - Built a website for the solar energy company called Dunamis, designed it using `HTML` and `CSS`.
 - Created a wordpress blog to write opinions about political issues.
 - Created a blog for the company Charmboard, designed it using `HTML` and `CSS`.
 - Created a corporate website for the company Charmboard, designed it using `HTML` and `CSS`.
 
-### Octopouce digital (Under Pink Art Ltd.), Mauritius Islands *(As Lead Front End Developer - Sep 2015 to Nov 2016)*
+### Octopouce digital (Under Pink Art Ltd.), Mauritius Islands *(As Lead Front End Developer - September 2015 to November 2016)*
 - Created websites using `Angular JS` version 1  (all the interactive elements of the website, animations and for displaying model data in views across the website)
 - Integrating `HTML` views within the backend framework and templating engine `blade`
 - Enhancing existing automated tasks (using `grunt` or `gulp`) and creating some new ones to have a better work­flow
@@ -81,24 +81,24 @@ I have worked in various organizations for 5 years, excluding the period when I 
 - Experimenting with node applications (for CSS
 fontface generation, markdown generation to name a few)
 
-### Ipedis India, Chennai, India *(As Front End Developer - Feb 2015 to Aug 2015)*
+### Ipedis India, Chennai, India *(As Front End Developer - February 2015 to August 2015)*
 - Created websites using properly semantic `HTML`, `CSS` with `LESS` preprocessor
 - Learned `Angular JS` version 1 under the guidance of the CTO (Yanis Ghidouche)
 - Learned to work with task manager (`grunt`) and version control system (`git`)
 - Created challenging designs and layouts using `Bootstrap CSS` and `media queries`
 
-### Freelance Developer, Pune, India *(May 2012 to Dec 2014)*
+### Freelance Developer, Pune, India *(May 2012 to December 2014)*
 - Designed simple websites and interfaces using `Bootstrap`
 - Created dynamic elements of a websites using `javascript` APIs (geolocation, custom interaction with youtube videos, maps etc)
 - Created application with `HTML` templates using `mustache JS`
 - Dabbled with a little bit of `PHP` (for storing user data from forms, using php mailer to send confirmation e-mail, using of grocery CRUD for backend admin interface)
 
-### DotAhead (now called ScreenRoot), Goa, India *(As Design Specialist - Jul 2011 to Apr 2012)*
+### DotAhead (now called ScreenRoot), Goa, India *(As Design Specialist - July 2011 to April 2012)*
 - Created static websites using `HTML`, `CSS` and `javascript`
 - Created some interactive elements using `jQuery` plugins (carousels for images, dialogues that take user input and send information via `ajax` and `HTML` forms with client side validation)
 - Went through the painstaking process of developing compatibility for IE6
 
-### TransGraph, Hyderabad, India *(As an Intern - Jan 2011 to Jun 2011)*
+### TransGraph, Hyderabad, India *(As an Intern - January 2011 to June 2011)*
 - Created `HTML` forms for internal applications
 - Created simple UI using `jQuery UI`
 - Integrated `HTML` views with business logic written in `C#`
