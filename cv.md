@@ -31,9 +31,11 @@ I also write a [tech blog](https://blenderous.github.io/) about my learnings.
 - Created single page applications using `React JS`
 - Completed the lesson on `React` and `Redux` from freeCodeCamp.
 - Learning to use ES6 and Babel.
+- Learned how to write unit test cases using `Jest`, `React Testing Library` and to implement mock api requests using `MSW`
 - Previously used `Angular js` version 1 to make DOM manipulations, interactive elements and have modular front end code (now using `ReactJS` to achieve the same)
 - Familiar with creating simple command line tools using `Javascript` in the `node.js` environment
-- Comfortable with vanilla `Javascript` and `jQuery`
+- Moderate knowledge of vanilla `Javascript`
+- Comfortable with `jQuery`
 
 ### MongoDB *(level: beginner)*
 - Learned to use `MongoDB` `noSQL` database using the basic level certification course from the MongoDB website.
