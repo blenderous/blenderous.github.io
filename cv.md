@@ -29,7 +29,7 @@ I also write a [tech blog](https://blenderous.github.io/) about my learnings.
 
 ### Javascript *(level: medium)*
 - Created single page applications using `React JS`
-- Completed the lesson on `React` and `Redux` from freeCodeCamp.
+- Created state management for React application using `Redux`
 - Learning to use ES6 and Babel.
 - Learned how to write unit test cases using `Jest`, `React Testing Library` and to implement mock api requests using `MSW`
 - Previously used `Angular js` version 1 to make DOM manipulations, interactive elements and have modular front end code (now using `ReactJS` to achieve the same)
@@ -37,16 +37,17 @@ I also write a [tech blog](https://blenderous.github.io/) about my learnings.
 - Moderate knowledge of vanilla `Javascript`
 - Comfortable with `jQuery`
 
-### MongoDB *(level: beginner)*
-- Learned to use `MongoDB` `noSQL` database using the basic level certification course from the MongoDB website.
-
 ## Education
 
 Completed MSc.(Tech.) Information Systems course in Goa, India (at the university, Birla Insitute of Technology and Science KK Birla, Goa campus).
 
 ## Experience
 
-I have worked in various organizations for 5 years, excluding the period when I did freelance work.
+I have worked in various organizations for more than 5 years, excluding the period when I did freelance work.
+
+### Autonom8 Inc., Chennai, India *(March 2023 - December 2023)*
+- Worked on building features and making bug fixes for their platform A8 Studio using `ReactJS`, `TypeScript`, and `Tailwind CSS`.
+- Worked on creating state management for their application using `Redux`.
 
 ### Infosys Limited, was working from Madurai, India *(June 2021 - August 2022)*
 - Worked on creating a functionality for a website using `jQuery`
