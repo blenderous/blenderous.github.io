@@ -102,7 +102,7 @@ const firstChildEl = document.getElementById('first-child');
 parentEl.removeChild(firstChildEl);
 ```
 
-For a detailed explanation of the topics discussed above, visit Chibuike Okere's (post)[https://www.freecodecamp.org/news/how-to-manipulate-the-dom-beginners-guide/].
+For a detailed explanation of the topics discussed above, visit Chibuike Okere's [post](https://www.freecodecamp.org/news/how-to-manipulate-the-dom-beginners-guide/).
 
 ## An Example (Creating a Nested DOM Structure)
 
