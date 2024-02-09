@@ -31,7 +31,7 @@ npm install gh-pages --save-dev
 
 ### 3. Add a homepage property to the package.json file
 
-Open the package.json file in your project directory and add the following property at the top level:
+Open the `package.json` file in your project directory and add the following property at the top level:
 
 ```javascript
 "homepage": "https://{username}.github.io/{repo-name}",
@@ -66,6 +66,8 @@ Push the code updates to the GitHub repository by using the following command:
 git push origin main
 ```
 
+It could be `main` or `master` depending upon the name of your branch.
+
 ### 7. Deploy the application
 
 Run the following command to deploy your React app to GitHub Pages:
@@ -76,6 +78,6 @@ npm run deploy
 
 Once the deployment is complete, you can view your deployed app at the URL `https://{username}.github.io/{repo-name}`
 
-And that's how you can deploy your React app created using Vite onto Github Pages.
+And that's how you can deploy your React app created using Vite to Github Pages.
 
 Hope you enjoyed reading this post and found it helpful.
