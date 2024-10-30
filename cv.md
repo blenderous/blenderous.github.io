@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 ## About me
-Graduated from BITS, I am a web developer who is focused on Front End development.
+I am a web developer who is focused on Front End development.
 
 Making interfaces for mobiles, tablets and desktop computers is my thing. I make the transformation of the concept made by the designers into something that can be
 seen and interacted with on the screen.
@@ -19,18 +19,18 @@ I also write a [tech blog](https://blenderous.github.io/) about my learnings.
 
 ### HTML5 *(level: advanced)*
 - Good at writing meaningful and semantic `HTML`
-- Very much intrigued by the philosophy of `polymer` and always looking to implement something similar in my code
+- Make sure the `HTML` tags used meet accessibility requirements
 
 ### CSS *(level: medium to advanced)*
-- Know how to write `media queries` in order have a proper layout and structure in tablet and mobile
-- Like to write a lot of `CSS` to create proper layouts for the page/application
-- Use a `LESS` or `SASS` preprocessor to make `CSS` more re-usable
-- Learning to make `CSS` more maintainable and well organized using naming conventions and custom libraries for the commonly used `CSS` utilities
+- Experienced in using `Tailwind CSS` to style different elements of an interface or web page
+- Familiar with `flexbox` and `grid` utilities for creating almost any sort of layout
+- Know how to write `media queries` in order have a proper layout and structure across all devices (desktop, tablet and mobile)
+- Use a `LESS` or `SASS` preprocessor in certain situations to make `CSS` more re-usable
 
 ### Javascript *(level: medium)*
 - Created single page applications using `React JS`
 - Created state management for React application using `Redux`
-- Learning to use ES6 and Babel.
+- Learning to use ES6 and Babel
 - Learned how to write unit test cases using `Jest`, `React Testing Library` and to implement mock api requests using `MSW`
 - Previously used `Angular js` version 1 to make DOM manipulations, interactive elements and have modular front end code (now using `ReactJS` to achieve the same)
 - Familiar with creating simple command line tools using `Javascript` in the `node.js` environment
@@ -43,7 +43,8 @@ Completed MSc.(Tech.) Information Systems course in Goa, India (at the universit
 
 ## Experience
 
-I have worked in various organizations for more than 5 years, excluding the period when I did freelance work.
+### Servion Global Solutions Pvt. Ltd., Chennai, India *(March 2024 - June 2024)*
+- Worked on fixing unit test cases after upgradation of `Jest` testing library to a newer version in their product CXOne Agent that helps agents carry out actions in a call center.
 
 ### Autonom8 Inc., Chennai, India *(March 2023 - December 2023)*
 - Worked on building features and making bug fixes for their platform A8 Studio using `ReactJS`, `TypeScript`, and `Tailwind CSS`.
